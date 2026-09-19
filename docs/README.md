@@ -78,6 +78,32 @@ The project currently investigates:
 5. How does foundational infrastructure, particularly electricity access,
    relate to observed digital connectivity gaps?
 
+## Country Selection
+
+Countries were grouped by World Bank income level, and then selected from different regions to make sure the sample included geographic diversity. More countries were selected from the low- and middle-income groups because they are the main focus of this project, while a smaller number of high-income countries were selected for comparison.
+
+The initial candidate screening pool contains 29 economies:
+
+- 8 Low Income
+- 8 Lower Middle Income
+- 8 Upper Middle Income
+- 5 High Income benchmarks
+
+Candidate selection is based on income classification and geographic
+representation rather than telecommunications performance.
+
+The candidate pool will be screened for ITU data availability across the core
+digital infrastructure and access indicators for approximately 2018–2025.
+Countries with insufficient longitudinal coverage may be replaced or excluded
+before the final analytical sample is established.
 --- 
 ## Project Status
-This project is currently in the early planning and development stage. 
+
+### Current Status
+
+- Initial ITU data exploration completed
+- Core analytical indicators identified
+- World Bank income classification data acquired and explored
+- Candidate country screening methodology established
+- 29-country screening pool selected
+- Next step: evaluate ITU longitudinal data availability and finalize the analytical sample
