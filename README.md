@@ -43,10 +43,11 @@ available infrastructure.
 ## Core Indicators
 
 The initial analysis uses telecommunications and infrastructure indicators
-from the International Telecommunication Union (ITU).
+from the International Telecommunication Union (ITU) and nations electricity data
+from The World Bank's World Developent Indicators (WB).
 
-### Foundational Infrastructure
-- Proportion of households with electricity
+### Nations Electricity Access
+- Access to electricity (% of population)
 
 ### Digital Infrastructure
 - Population coverage by mobile network technology
