@@ -1,0 +1,15 @@
+[project]
+name = "ai-readiness-governance-capstone"
+version = "0.1.0"
+description = "Analysis of digital infrastructure and access as foundations for AI readiness."
+requires-python = ">=3.11"
+
+dependencies = [
+    "pandas",
+    "numpy",
+    "matplotlib",
+    "seaborn",
+    "scipy",
+    "jupyter",
+    "openpyxl"
+]
