@@ -20,6 +20,36 @@ The central stakeholder problem is:
 > and what types of infrastructure or adoption barriers appear to be
 > contributing to those gaps?
 
+## Project Progress
+
+### Experiment A — Data Preparation and Predictive Modeling (Completed)
+
+Experiment A examined whether selected digital infrastructure indicators could help predict internet adoption across 25 countries between 2018 and 2024.
+
+The analysis combined telecommunications data from the International Telecommunication Union (ITU) with World Bank electricity access and country classification data. After preprocessing, 174 country-year observations were available for supervised modeling.
+
+Four regression approaches were compared: DummyRegressor (baseline), Multiple Linear Regression, Ridge Regression, and Random Forest Regression.
+
+**Final 2024 Test Results**
+
+| Model | MAE | RMSE | R² |
+|---|---:|---:|---:|
+| Tuned Random Forest | 7.224 | 10.168 | 0.872 |
+| Multiple Linear Regression | 9.718 | 13.015 | 0.791 |
+| Ridge Regression | 9.755 | 13.041 | 0.790 |
+| Baseline | 27.189 | 29.376 | -0.065 |
+
+Random Forest produced the lowest prediction errors. However, the analysis also revealed substantial errors for individual countries, especially some observations with missing infrastructure indicators.
+
+Because the same countries appeared across the training and testing periods, the results do not establish how well the model would perform on entirely new countries.
+
+### Experiment B — Infrastructure Availability vs. Internet Adoption (Planned)
+
+The next phase will expand the analysis beyond the original 25-country sample to include all countries with eligible data available through the ITU and relevant World Bank sources.
+
+The research will focus on understanding the difference between infrastructure availability and actual internet adoption. Greater attention will be given to descriptive analysis, identifying countries where network coverage exceeds internet use, and investigating patterns that may help explain these differences.
+
+The goal is to develop findings that can help Jupiter's Justice better understand digital infrastructure gaps and identify areas requiring further investigation before investment decisions are made.
 ---
 
 ## Project Objective
