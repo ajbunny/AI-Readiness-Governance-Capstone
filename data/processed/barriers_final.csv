@@ -1,0 +1,2215 @@
+AreaCode,AreaName,Year,Barrier_Reason,Barrier_Percent
+AZE,Azerbaijan,2025.0,Have access to the Internet elsewhere,11.400215308237764
+AZE,Azerbaijan,2025.0,Cost of the equipment is too high,10.0999136987642
+AZE,Azerbaijan,2025.0,Cost of service is too high,13.800190396540833
+AZE,Azerbaijan,2025.0,Internet service is available but it does not correspond to household needs,0.5000133455519276
+AZE,Azerbaijan,2025.0,Do not need the Internet,42.699983095634224
+AZE,Azerbaijan,2025.0,Internet service is not available in the area,2.799896794398427
+AZE,Azerbaijan,2025.0,other reason,10.49983540485956
+AZE,Azerbaijan,2025.0,Privacy or security concerns,0.7998434121907169
+AZE,Azerbaijan,2025.0,cultural reasons,7.400108543822344
+BRA,Brazil,2025.0,cultural reasons,38.65492704796617
+BRA,Brazil,2025.0,Privacy or security concerns,41.34215704063535
+BRA,Brazil,2025.0,other reason,2.349146483729643
+BRA,Brazil,2025.0,Have access to the Internet elsewhere,20.52739841552638
+BRA,Brazil,2025.0,Do not need the Internet,63.920838399400495
+BRA,Brazil,2025.0,Internet service is not available in the area,14.977196012711316
+BRA,Brazil,2025.0,Cost of service is too high,48.60870072517599
+BLR,Belarus,2025.0,other reason,4.554485360092289
+BLR,Belarus,2025.0,cultural reasons,2.369028217758327
+BLR,Belarus,2025.0,Privacy or security concerns,4.154840599879145
+BLR,Belarus,2025.0,Cost of service is too high,2.703209976012159
+BLR,Belarus,2025.0,Internet service is not available in the area,0.1693797952793393
+BLR,Belarus,2025.0,Do not need the Internet,91.98970903297872
+BLR,Belarus,2025.0,Cost of the equipment is too high,1.9529032612477344
+BLR,Belarus,2025.0,Internet service is available but it does not correspond to household needs,4.863031257438977
+BLR,Belarus,2025.0,Have access to the Internet elsewhere,8.938217575213784
+CRI,Costa Rica,2025.0,other reason,35.58042132899919
+CRI,Costa Rica,2025.0,Privacy or security concerns,0.3750703256860661
+CRI,Costa Rica,2025.0,Internet service is not available in the area,4.28997103623596
+CRI,Costa Rica,2025.0,Cost of the equipment is too high,42.59465316413495
+CRI,Costa Rica,2025.0,Have access to the Internet elsewhere,17.15988414494384
+ITA,Italy,2025.0,Have access to the Internet elsewhere,7.916736417799528
+ITA,Italy,2025.0,Internet service is not available in the area,2.8453460720231813
+ITA,Italy,2025.0,Cost of the equipment is too high,7.039828607859572
+ITA,Italy,2025.0,Cost of service is too high,10.274408066633931
+ITA,Italy,2025.0,Do not need the Internet,21.170500993089416
+ITA,Italy,2025.0,other reason,61.22008632566919
+ITA,Italy,2025.0,Privacy or security concerns,3.2861241975187325
+IND,India,2025.0,Internet service is available but it does not correspond to household needs,11.399999999999997
+IND,India,2025.0,Do not need the Internet,21.3
+IND,India,2025.0,other reason,21.8
+MYS,Malaysia,2025.0,other reason,44.16587518652208
+MYS,Malaysia,2025.0,Privacy or security concerns,24.58709439839198
+MYS,Malaysia,2025.0,cultural reasons,20.52169026402704
+MYS,Malaysia,2025.0,Have access to the Internet elsewhere,51.879417552446746
+MYS,Malaysia,2025.0,Do not need the Internet,46.71092817988976
+MYS,Malaysia,2025.0,Cost of service is too high,33.355779019766544
+MYS,Malaysia,2025.0,Cost of the equipment is too high,33.79972995055487
+MYS,Malaysia,2025.0,Internet service is not available in the area,43.17315386297293
+MYS,Malaysia,2025.0,Internet service is available but it does not correspond to household needs,15.251860234068426
+NER,Niger,2025.0,Cost of service is too high,30.06775495704771
+NER,Niger,2025.0,Internet service is available but it does not correspond to household needs,3.6958186153061834
+NER,Niger,2025.0,no electricity in the household,8.728914096025694
+NER,Niger,2025.0,Do not need the Internet,42.02104604633429
+NER,Niger,2025.0,Cost of the equipment is too high,39.18221215661052
+NER,Niger,2025.0,Internet service is not available in the area,6.833509030256041
+NER,Niger,2025.0,Have access to the Internet elsewhere,9.29504413437996
+NER,Niger,2025.0,cultural reasons,1.5818178842291657
+NER,Niger,2025.0,other reason,17.488986864255487
+NER,Niger,2025.0,Privacy or security concerns,0.9114214719623478
+PRT,Portugal,2025.0,other reason,67.94456798921583
+PRT,Portugal,2025.0,Privacy or security concerns,28.36110944158717
+PRT,Portugal,2025.0,Cost of the equipment is too high,43.0179077907619
+PRT,Portugal,2025.0,Do not need the Internet,45.30983025234615
+PRT,Portugal,2025.0,Cost of service is too high,43.93605055509286
+PRT,Portugal,2025.0,Have access to the Internet elsewhere,11.318513684849211
+RUS,Russian Federation,2025.0,Privacy or security concerns,3.6687199203925567
+RUS,Russian Federation,2025.0,other reason,16.17101662704026
+RUS,Russian Federation,2025.0,Do not need the Internet,76.20835439511424
+RUS,Russian Federation,2025.0,Cost of the equipment is too high,10.951630033337697
+RUS,Russian Federation,2025.0,Internet service is available but it does not correspond to household needs,1.5161953933223766
+RUS,Russian Federation,2025.0,Have access to the Internet elsewhere,4.823379308455535
+RUS,Russian Federation,2025.0,Cost of service is too high,11.53573938000923
+RUS,Russian Federation,2025.0,Internet service is not available in the area,1.0464458108802244
+SGP,Singapore,2025.0,Internet service is available but it does not correspond to household needs,0.0
+SGP,Singapore,2025.0,Have access to the Internet elsewhere,6.477777229337887
+SGP,Singapore,2025.0,Do not need the Internet,51.75382329877013
+SGP,Singapore,2025.0,Cost of the equipment is too high,6.207584674119225
+SGP,Singapore,2025.0,Cost of service is too high,13.700606807311171
+SGP,Singapore,2025.0,other reason,20.23205723336305
+SGP,Singapore,2025.0,cultural reasons,0.0
+SGP,Singapore,2025.0,Privacy or security concerns,1.628150719989683
+CHE,Switzerland,2025.0,Do not need the Internet,67.6209197414927
+THA,Thailand,2025.0,Internet service is not available in the area,0.8116425339921287
+THA,Thailand,2025.0,Have access to the Internet elsewhere,1.9880337898311733
+THA,Thailand,2025.0,Cost of the equipment is too high,1.142674987433027
+THA,Thailand,2025.0,Do not need the Internet,93.78885033654966
+THA,Thailand,2025.0,Cost of service is too high,0.464671480941113
+THA,Thailand,2025.0,other reason,1.7697975797849517
+ALB,Albania,2024.0,Cost of the equipment is too high,69.86706728580533
+ALB,Albania,2024.0,Do not need the Internet,44.90121096239643
+ALB,Albania,2024.0,Cost of service is too high,71.04616225075117
+ALB,Albania,2024.0,Have access to the Internet elsewhere,6.34161886551944
+ALB,Albania,2024.0,Internet service is not available in the area,11.663479923518166
+ALB,Albania,2024.0,other reason,6.796867886734044
+ALB,Albania,2024.0,Privacy or security concerns,1.0652827096421742
+BRA,Brazil,2024.0,Do not need the Internet,56.10530576566634
+BRA,Brazil,2024.0,Have access to the Internet elsewhere,27.646810467855943
+BRA,Brazil,2024.0,Internet service is not available in the area,16.977052635679378
+BRA,Brazil,2024.0,Cost of service is too high,49.29454840662271
+BRA,Brazil,2024.0,Privacy or security concerns,36.57146334644509
+BRA,Brazil,2024.0,other reason,2.208976824064649
+BRA,Brazil,2024.0,cultural reasons,32.36414214662604
+BEL,Belgium,2024.0,Cost of the equipment is too high,19.034612010527155
+BEL,Belgium,2024.0,Cost of service is too high,15.277534093627882
+BEL,Belgium,2024.0,Have access to the Internet elsewhere,18.557301220193
+BEL,Belgium,2024.0,Do not need the Internet,26.940346120105275
+BEL,Belgium,2024.0,other reason,58.05646383284153
+BEL,Belgium,2024.0,Privacy or security concerns,11.05431055108063
+BEL,Belgium,2024.0,cultural reasons,4.190126804370364
+BGD,Bangladesh,2024.0,other reason,0.9980193655683004
+BGD,Bangladesh,2024.0,cultural reasons,7.100835107699266
+BGD,Bangladesh,2024.0,Privacy or security concerns,13.74064562208172
+BGD,Bangladesh,2024.0,Internet service is not available in the area,5.007126499907228
+BGD,Bangladesh,2024.0,Cost of service is too high,46.19035390096899
+BGD,Bangladesh,2024.0,Internet service is available but it does not correspond to household needs,11.865238143643218
+BGD,Bangladesh,2024.0,Do not need the Internet,70.4666260339032
+BGD,Bangladesh,2024.0,Have access to the Internet elsewhere,39.7760473170996
+BGD,Bangladesh,2024.0,no electricity in the household,0.0033990739465076
+BGD,Bangladesh,2024.0,Cost of the equipment is too high,49.57022171338063
+BLR,Belarus,2024.0,Cost of service is too high,3.2561628284138826
+BLR,Belarus,2024.0,Internet service is not available in the area,0.1788031138501459
+BLR,Belarus,2024.0,Cost of the equipment is too high,4.028543626337982
+BLR,Belarus,2024.0,Have access to the Internet elsewhere,9.280327602984109
+BLR,Belarus,2024.0,Do not need the Internet,93.12074278300356
+BLR,Belarus,2024.0,Internet service is available but it does not correspond to household needs,0.5364093415504378
+BLR,Belarus,2024.0,Privacy or security concerns,4.389393447940318
+BLR,Belarus,2024.0,cultural reasons,6.9408855011352575
+BLR,Belarus,2024.0,other reason,4.779030165423289
+BWA,Botswana,2024.0,cultural reasons,0.9148389915392116
+BWA,Botswana,2024.0,Privacy or security concerns,0.5673453195313171
+BWA,Botswana,2024.0,other reason,54.41819207068104
+BWA,Botswana,2024.0,Internet service is available but it does not correspond to household needs,0.2808978331464308
+BWA,Botswana,2024.0,no electricity in the household,25.54505385660984
+BWA,Botswana,2024.0,Do not need the Internet,8.228855063420367
+BWA,Botswana,2024.0,Cost of the equipment is too high,34.30624873451896
+BWA,Botswana,2024.0,Cost of service is too high,28.74293481116898
+BWA,Botswana,2024.0,Internet service is not available in the area,8.797054175757598
+BWA,Botswana,2024.0,Have access to the Internet elsewhere,4.733427315999431
+BRN,Brunei Darussalam,2024.0,Cost of service is too high,0.0
+BRN,Brunei Darussalam,2024.0,Cost of the equipment is too high,19.101123595505584
+BRN,Brunei Darussalam,2024.0,Have access to the Internet elsewhere,8.426966292134816
+BRN,Brunei Darussalam,2024.0,no electricity in the household,0.5617977528089877
+BRN,Brunei Darussalam,2024.0,Internet service is available but it does not correspond to household needs,2.2471910112359508
+BRN,Brunei Darussalam,2024.0,Do not need the Internet,72.47191011235941
+BRN,Brunei Darussalam,2024.0,Internet service is not available in the area,2.8089887640449387
+BRN,Brunei Darussalam,2024.0,cultural reasons,0.5617977528089877
+BRN,Brunei Darussalam,2024.0,Privacy or security concerns,0.5617977528089877
+BRN,Brunei Darussalam,2024.0,other reason,16.853932584269632
+BGR,Bulgaria,2024.0,Privacy or security concerns,0.8188476323558997
+BGR,Bulgaria,2024.0,other reason,8.156940358966274
+BGR,Bulgaria,2024.0,Do not need the Internet,44.70277353371358
+BGR,Bulgaria,2024.0,Have access to the Internet elsewhere,2.2330725272813283
+BGR,Bulgaria,2024.0,Internet service is not available in the area,2.6544582610634144
+BGR,Bulgaria,2024.0,Cost of the equipment is too high,15.367258056623369
+COL,Colombia,2024.0,Internet service is available but it does not correspond to household needs,0.9128455255350848
+COL,Colombia,2024.0,Cost of service is too high,50.81414354633959
+COL,Colombia,2024.0,Internet service is not available in the area,4.558764742235367
+COL,Colombia,2024.0,Have access to the Internet elsewhere,3.5827710714193897
+COL,Colombia,2024.0,Do not need the Internet,30.63139261359892
+COL,Colombia,2024.0,other reason,9.500082501029093
+CIV,Côte d'Ivoire,2024.0,Cost of service is too high,21.46718458302174
+CIV,Côte d'Ivoire,2024.0,no electricity in the household,4.909319804382562
+CIV,Côte d'Ivoire,2024.0,Cost of the equipment is too high,31.232723418678344
+CIV,Côte d'Ivoire,2024.0,Have access to the Internet elsewhere,2.1040172590962647
+CIV,Côte d'Ivoire,2024.0,Internet service is not available in the area,12.526294835721163
+CIV,Côte d'Ivoire,2024.0,Do not need the Internet,15.67629510472204
+CIV,Côte d'Ivoire,2024.0,Internet service is available but it does not correspond to household needs,1.922172666282892
+CIV,Côte d'Ivoire,2024.0,cultural reasons,0.3956464898075568
+CIV,Côte d'Ivoire,2024.0,Privacy or security concerns,0.6150436050421524
+CRI,Costa Rica,2024.0,Do not need the Internet,0.0
+CRI,Costa Rica,2024.0,Cost of the equipment is too high,40.26850699551232
+CRI,Costa Rica,2024.0,Have access to the Internet elsewhere,23.64068333521892
+CRI,Costa Rica,2024.0,Internet service is not available in the area,4.506920088999509
+CRI,Costa Rica,2024.0,Privacy or security concerns,0.4762982237809706
+CRI,Costa Rica,2024.0,other reason,31.10759135648829
+JOR,Jordan,2024.0,Have access to the Internet elsewhere,19.004634994206256
+JOR,Jordan,2024.0,Do not need the Internet,66.6720741599073
+MEX,Mexico,2024.0,other reason,1.7212692514393904
+MEX,Mexico,2024.0,Privacy or security concerns,0.3452695770922591
+MEX,Mexico,2024.0,Internet service is available but it does not correspond to household needs,0.5710071057262083
+MEX,Mexico,2024.0,Have access to the Internet elsewhere,1.767858934155607
+MEX,Mexico,2024.0,Cost of service is too high,55.25143842132019
+MEX,Mexico,2024.0,Internet service is not available in the area,4.805667135277267
+MEX,Mexico,2024.0,Do not need the Internet,24.89742176940966
+MYS,Malaysia,2024.0,Cost of service is too high,36.95937153856907
+MYS,Malaysia,2024.0,Internet service is not available in the area,11.457279534855376
+MYS,Malaysia,2024.0,Internet service is available but it does not correspond to household needs,15.76561349550305
+MYS,Malaysia,2024.0,Have access to the Internet elsewhere,18.51023418540544
+MYS,Malaysia,2024.0,Cost of the equipment is too high,37.07270214756584
+MYS,Malaysia,2024.0,Do not need the Internet,52.89094122243849
+MYS,Malaysia,2024.0,other reason,43.76938168313815
+MYS,Malaysia,2024.0,cultural reasons,15.820343624873193
+MYS,Malaysia,2024.0,Privacy or security concerns,24.20432165811727
+MAR,Morocco,2024.0,Cost of service is too high,36.10037586955457
+MAR,Morocco,2024.0,Internet service is available but it does not correspond to household needs,4.759714463128487
+MAR,Morocco,2024.0,no electricity in the household,0.0
+MAR,Morocco,2024.0,Do not need the Internet,57.22256497223725
+MAR,Morocco,2024.0,Have access to the Internet elsewhere,18.27082006357485
+MAR,Morocco,2024.0,Internet service is not available in the area,6.793249746770512
+MAR,Morocco,2024.0,Cost of the equipment is too high,31.342661244439203
+MAR,Morocco,2024.0,Privacy or security concerns,5.833527484273774
+MAR,Morocco,2024.0,cultural reasons,7.32800643147905
+MAR,Morocco,2024.0,other reason,0.0
+PAK,Pakistan,2024.0,Have access to the Internet elsewhere,7.538147793747589
+PAK,Pakistan,2024.0,Internet service is not available in the area,9.522537026112504
+PAK,Pakistan,2024.0,Do not need the Internet,65.49854081840715
+PAK,Pakistan,2024.0,no electricity in the household,6.925859846651192
+PAK,Pakistan,2024.0,Cost of service is too high,20.30932555049905
+PAK,Pakistan,2024.0,Cost of the equipment is too high,25.40378390675552
+PAK,Pakistan,2024.0,Internet service is available but it does not correspond to household needs,3.482090068382822
+PAK,Pakistan,2024.0,other reason,3.338767054695413
+PAK,Pakistan,2024.0,cultural reasons,3.1447007244461487
+PAK,Pakistan,2024.0,Privacy or security concerns,1.9323892298992271
+PHL,Philippines,2024.0,Privacy or security concerns,2.3854595982542786
+PHL,Philippines,2024.0,other reason,19.309522938281194
+PHL,Philippines,2024.0,cultural reasons,1.7169041378040797
+PHL,Philippines,2024.0,Do not need the Internet,7.861596679480021
+PHL,Philippines,2024.0,Cost of service is too high,58.293711108946326
+PHL,Philippines,2024.0,Have access to the Internet elsewhere,20.45637554290413
+PHL,Philippines,2024.0,Internet service is not available in the area,11.17303533478096
+PHL,Philippines,2024.0,Internet service is available but it does not correspond to household needs,9.368703254970097
+PHL,Philippines,2024.0,Cost of the equipment is too high,37.49435928936985
+PRT,Portugal,2024.0,Have access to the Internet elsewhere,10.690971384853349
+PRT,Portugal,2024.0,Do not need the Internet,38.6871349649206
+PRT,Portugal,2024.0,Cost of service is too high,45.19712933780177
+PRT,Portugal,2024.0,Cost of the equipment is too high,41.69750494105385
+PRT,Portugal,2024.0,other reason,71.55061773568065
+PRT,Portugal,2024.0,Privacy or security concerns,18.828672249433826
+RUS,Russian Federation,2024.0,Cost of the equipment is too high,11.62972143423651
+RUS,Russian Federation,2024.0,Internet service is available but it does not correspond to household needs,1.0307334463964917
+RUS,Russian Federation,2024.0,Internet service is not available in the area,1.1794675912478
+RUS,Russian Federation,2024.0,Have access to the Internet elsewhere,5.043976700243095
+RUS,Russian Federation,2024.0,Cost of service is too high,11.169427618389276
+RUS,Russian Federation,2024.0,Do not need the Internet,80.75319477711443
+RUS,Russian Federation,2024.0,other reason,13.497716268724169
+RUS,Russian Federation,2024.0,Privacy or security concerns,2.416005969271468
+SGP,Singapore,2024.0,Privacy or security concerns,0.0
+SGP,Singapore,2024.0,cultural reasons,0.0
+SGP,Singapore,2024.0,other reason,23.30756590741272
+SGP,Singapore,2024.0,Do not need the Internet,48.68049024241019
+SGP,Singapore,2024.0,Have access to the Internet elsewhere,2.376319175504229
+SGP,Singapore,2024.0,Cost of the equipment is too high,4.293915133647893
+SGP,Singapore,2024.0,Internet service is available but it does not correspond to household needs,0.0
+SGP,Singapore,2024.0,Cost of service is too high,21.341709330326434
+THA,Thailand,2024.0,other reason,2.5049439683586026
+THA,Thailand,2024.0,Have access to the Internet elsewhere,1.5831871557377963
+THA,Thailand,2024.0,Do not need the Internet,94.49850842988504
+THA,Thailand,2024.0,Cost of the equipment is too high,1.413919086511067
+KAZ,Kazakhstan,2024.0,other reason,3.024740994534373
+KAZ,Kazakhstan,2024.0,Have access to the Internet elsewhere,0.6421237865491964
+KAZ,Kazakhstan,2024.0,Cost of the equipment is too high,1.5936556771434234
+KAZ,Kazakhstan,2024.0,Do not need the Internet,75.12848302625599
+KAZ,Kazakhstan,2024.0,Cost of service is too high,15.931312566280925
+KAZ,Kazakhstan,2024.0,Internet service is not available in the area,3.679683949236094
+ALB,Albania,2023.0,Do not need the Internet,52.23155894148415
+ALB,Albania,2023.0,Internet service is not available in the area,10.52935339624578
+ALB,Albania,2023.0,Cost of the equipment is too high,54.31969257825877
+ALB,Albania,2023.0,Cost of service is too high,52.16706060521311
+ALB,Albania,2023.0,Have access to the Internet elsewhere,4.28510821600661
+ALB,Albania,2023.0,Privacy or security concerns,5.90159776879932
+ALB,Albania,2023.0,other reason,21.744001615371264
+AZE,Azerbaijan,2023.0,Privacy or security concerns,2.0998116042621677
+AZE,Azerbaijan,2023.0,cultural reasons,5.000114410367105
+AZE,Azerbaijan,2023.0,other reason,6.500034323110132
+AZE,Azerbaijan,2023.0,Have access to the Internet elsewhere,7.800117461310227
+AZE,Azerbaijan,2023.0,Internet service is not available in the area,2.999839825486053
+AZE,Azerbaijan,2023.0,Internet service is available but it does not correspond to household needs,1.700138055176306
+AZE,Azerbaijan,2023.0,Do not need the Internet,64.59990694623475
+AZE,Azerbaijan,2023.0,Cost of the equipment is too high,5.299869572181501
+AZE,Azerbaijan,2023.0,Cost of service is too high,4.000167801871753
+BRA,Brazil,2023.0,Internet service is not available in the area,17.374797061907536
+BRA,Brazil,2023.0,Do not need the Internet,62.62227202024248
+BRA,Brazil,2023.0,Have access to the Internet elsewhere,28.03357326348484
+BRA,Brazil,2023.0,Cost of service is too high,54.56052616841384
+BRA,Brazil,2023.0,Privacy or security concerns,40.89677273333835
+BRA,Brazil,2023.0,cultural reasons,36.312321446974735
+BEL,Belgium,2023.0,cultural reasons,4.595400170811985
+BEL,Belgium,2023.0,Privacy or security concerns,13.813986886538954
+BEL,Belgium,2023.0,other reason,56.73464183890411
+BEL,Belgium,2023.0,Do not need the Internet,27.16590713820396
+BEL,Belgium,2023.0,Cost of the equipment is too high,13.862902061506912
+BEL,Belgium,2023.0,Have access to the Internet elsewhere,21.075409071047773
+BEL,Belgium,2023.0,Cost of service is too high,17.685054181252642
+BGD,Bangladesh,2023.0,cultural reasons,4.335051604458378
+BGD,Bangladesh,2023.0,other reason,1.8296212115418944
+BGD,Bangladesh,2023.0,Privacy or security concerns,3.2646986924381847
+BGD,Bangladesh,2023.0,Internet service is available but it does not correspond to household needs,7.01380972949132
+BGD,Bangladesh,2023.0,Internet service is not available in the area,5.038743531609997
+BGD,Bangladesh,2023.0,Cost of service is too high,39.81067360717627
+BGD,Bangladesh,2023.0,Cost of the equipment is too high,30.957634589339616
+BGD,Bangladesh,2023.0,no electricity in the household,0.154054020497066
+BGD,Bangladesh,2023.0,Have access to the Internet elsewhere,9.619263614299484
+BLR,Belarus,2023.0,Do not need the Internet,95.94687723411243
+BLR,Belarus,2023.0,Internet service is not available in the area,0.3139833701525798
+BLR,Belarus,2023.0,Internet service is available but it does not correspond to household needs,1.097170607292143
+BLR,Belarus,2023.0,Have access to the Internet elsewhere,7.862465622846396
+BLR,Belarus,2023.0,Cost of service is too high,2.289663345420351
+BLR,Belarus,2023.0,Cost of the equipment is too high,0.832136439460786
+BLR,Belarus,2023.0,Privacy or security concerns,1.3277471129631655
+BLR,Belarus,2023.0,cultural reasons,2.868036814952693
+BLR,Belarus,2023.0,other reason,5.802090646193878
+COL,Colombia,2023.0,Cost of service is too high,49.653344032990745
+COL,Colombia,2023.0,Do not need the Internet,31.270308204329787
+COL,Colombia,2023.0,Have access to the Internet elsewhere,2.933434663933861
+COL,Colombia,2023.0,Internet service is available but it does not correspond to household needs,1.159122710207621
+COL,Colombia,2023.0,Internet service is not available in the area,4.419367036843609
+COL,Colombia,2023.0,other reason,10.564423351694373
+CIV,Côte d'Ivoire,2023.0,Have access to the Internet elsewhere,15.06068029246218
+CIV,Côte d'Ivoire,2023.0,Cost of the equipment is too high,68.07895103532601
+CIV,Côte d'Ivoire,2023.0,Cost of service is too high,64.61252259789707
+CIV,Côte d'Ivoire,2023.0,Internet service is available but it does not correspond to household needs,22.58360090892256
+CIV,Côte d'Ivoire,2023.0,Do not need the Internet,71.59683361010794
+CIV,Côte d'Ivoire,2023.0,no electricity in the household,17.246727112711103
+CIV,Côte d'Ivoire,2023.0,Internet service is not available in the area,36.11356585616849
+CIV,Côte d'Ivoire,2023.0,Privacy or security concerns,13.96548531264873
+CIV,Côte d'Ivoire,2023.0,other reason,23.56659812147158
+CIV,Côte d'Ivoire,2023.0,cultural reasons,9.18754942583094
+CRI,Costa Rica,2023.0,other reason,25.90232695647889
+CRI,Costa Rica,2023.0,Privacy or security concerns,0.5530987077938876
+CRI,Costa Rica,2023.0,Cost of service is too high,51.75168454895971
+CRI,Costa Rica,2023.0,Do not need the Internet,0.0
+CRI,Costa Rica,2023.0,Internet service is not available in the area,6.618398846992449
+CRI,Costa Rica,2023.0,Have access to the Internet elsewhere,15.174490939775064
+JAM,Jamaica,2023.0,cultural reasons,0.0
+JAM,Jamaica,2023.0,Do not need the Internet,46.7044339443716
+JAM,Jamaica,2023.0,Cost of the equipment is too high,20.764581220262396
+JAM,Jamaica,2023.0,Cost of service is too high,46.31439197156734
+JOR,Jordan,2023.0,Do not need the Internet,76.0731088879022
+KOR,Korea (Rep. of),2023.0,Privacy or security concerns,0.0
+KOR,Korea (Rep. of),2023.0,cultural reasons,0.0
+KOR,Korea (Rep. of),2023.0,other reason,0.0
+KOR,Korea (Rep. of),2023.0,Have access to the Internet elsewhere,0.0
+KOR,Korea (Rep. of),2023.0,Cost of service is too high,0.0
+KOR,Korea (Rep. of),2023.0,Do not need the Internet,86.5736764511544
+MEX,Mexico,2023.0,Cost of service is too high,58.11225824776234
+MEX,Mexico,2023.0,Internet service is not available in the area,4.449213821471969
+MEX,Mexico,2023.0,Do not need the Internet,24.650492694405266
+MEX,Mexico,2023.0,Internet service is available but it does not correspond to household needs,0.4868265493765232
+MEX,Mexico,2023.0,Privacy or security concerns,0.2700492306259153
+MEX,Mexico,2023.0,other reason,1.074708079877729
+MYS,Malaysia,2023.0,other reason,39.24765892529658
+MYS,Malaysia,2023.0,cultural reasons,13.254577470503271
+MYS,Malaysia,2023.0,Privacy or security concerns,22.616349384098545
+MYS,Malaysia,2023.0,Cost of service is too high,34.76553873119431
+MYS,Malaysia,2023.0,Do not need the Internet,47.50873947124981
+MYS,Malaysia,2023.0,Internet service is not available in the area,12.717817160848464
+MYS,Malaysia,2023.0,Internet service is available but it does not correspond to household needs,16.126326500803348
+MYS,Malaysia,2023.0,Cost of the equipment is too high,34.453050294561564
+MYS,Malaysia,2023.0,Have access to the Internet elsewhere,19.8760316146518
+MWI,Malawi,2023.0,Cost of the equipment is too high,93.88062116838869
+MWI,Malawi,2023.0,Do not need the Internet,3.766845809484666
+MWI,Malawi,2023.0,cultural reasons,0.0323108766351562
+MWI,Malawi,2023.0,other reason,2.3202221454914964
+PRT,Portugal,2023.0,Internet service is not available in the area,6.631699778371878
+PRT,Portugal,2023.0,Internet service is available but it does not correspond to household needs,0.0
+PRT,Portugal,2023.0,no electricity in the household,0.0
+PRT,Portugal,2023.0,Cost of the equipment is too high,44.33084208747851
+PRT,Portugal,2023.0,Do not need the Internet,41.04716802989495
+PRT,Portugal,2023.0,Have access to the Internet elsewhere,7.271737942138165
+PRT,Portugal,2023.0,Cost of service is too high,46.130452499031
+PRT,Portugal,2023.0,Privacy or security concerns,22.30369015792246
+PRT,Portugal,2023.0,cultural reasons,0.0
+PRT,Portugal,2023.0,other reason,70.04641270535386
+RUS,Russian Federation,2023.0,Have access to the Internet elsewhere,4.725316683741103
+RUS,Russian Federation,2023.0,Cost of service is too high,10.751308069142654
+RUS,Russian Federation,2023.0,Internet service is available but it does not correspond to household needs,1.478933013534964
+RUS,Russian Federation,2023.0,Do not need the Internet,78.51795385211537
+RUS,Russian Federation,2023.0,Internet service is not available in the area,2.57689546411545
+RUS,Russian Federation,2023.0,Cost of the equipment is too high,10.3807942914318
+RUS,Russian Federation,2023.0,other reason,14.622380089802872
+RUS,Russian Federation,2023.0,Privacy or security concerns,1.869732954618448
+SGP,Singapore,2023.0,other reason,22.644895598343037
+SGP,Singapore,2023.0,Privacy or security concerns,0.0
+SGP,Singapore,2023.0,cultural reasons,0.0
+SGP,Singapore,2023.0,Do not need the Internet,46.87657978377759
+SGP,Singapore,2023.0,Internet service is available but it does not correspond to household needs,0.0
+SGP,Singapore,2023.0,Cost of service is too high,10.645814323667071
+SGP,Singapore,2023.0,Have access to the Internet elsewhere,8.681522987205014
+SGP,Singapore,2023.0,Cost of the equipment is too high,11.151187387287091
+CHE,Switzerland,2023.0,Do not need the Internet,65.74990526697006
+THA,Thailand,2023.0,other reason,1.504708765240479
+THA,Thailand,2023.0,Have access to the Internet elsewhere,1.8410847877187817
+THA,Thailand,2023.0,Do not need the Internet,93.03142670346509
+THA,Thailand,2023.0,Cost of the equipment is too high,1.8071477409405556
+THA,Thailand,2023.0,Cost of service is too high,0.7605891072061327
+THA,Thailand,2023.0,Internet service is not available in the area,1.055541969646306
+KAZ,Kazakhstan,2023.0,other reason,1.9410969889378344
+KAZ,Kazakhstan,2023.0,Cost of the equipment is too high,0.5975986202502445
+KAZ,Kazakhstan,2023.0,Cost of service is too high,22.381386560622204
+KAZ,Kazakhstan,2023.0,Do not need the Internet,71.91341411167625
+KAZ,Kazakhstan,2023.0,Internet service is not available in the area,2.2398962990629565
+KAZ,Kazakhstan,2023.0,Have access to the Internet elsewhere,1.4950950775010712
+ALB,Albania,2022.0,Cost of the equipment is too high,43.65856232175099
+ALB,Albania,2022.0,Cost of service is too high,46.99317236420958
+ALB,Albania,2022.0,Internet service is not available in the area,6.779532201019077
+ALB,Albania,2022.0,Do not need the Internet,32.900495470787575
+ALB,Albania,2022.0,Have access to the Internet elsewhere,2.628727116146833
+ALB,Albania,2022.0,Privacy or security concerns,6.779532201019077
+ALB,Albania,2022.0,other reason,17.572025549738736
+AZE,Azerbaijan,2022.0,other reason,7.430897425962255
+AZE,Azerbaijan,2022.0,Privacy or security concerns,3.134852495523679
+AZE,Azerbaijan,2022.0,cultural reasons,5.573071103153207
+AZE,Azerbaijan,2022.0,Cost of service is too high,11.726534491126891
+AZE,Azerbaijan,2022.0,Internet service is not available in the area,6.850097275867835
+AZE,Azerbaijan,2022.0,Do not need the Internet,55.84572903878391
+AZE,Azerbaijan,2022.0,Internet service is available but it does not correspond to household needs,3.134852495523679
+AZE,Azerbaijan,2022.0,Have access to the Internet elsewhere,12.771077457694174
+AZE,Azerbaijan,2022.0,Cost of the equipment is too high,9.63663282744444
+BRA,Brazil,2022.0,Cost of service is too high,58.10269102475354
+BRA,Brazil,2022.0,Do not need the Internet,63.60916131736717
+BRA,Brazil,2022.0,Have access to the Internet elsewhere,24.511779034301107
+BRA,Brazil,2022.0,Internet service is not available in the area,16.019911915862064
+BRA,Brazil,2022.0,cultural reasons,34.2299118179833
+BRA,Brazil,2022.0,Privacy or security concerns,38.87949740266885
+BEL,Belgium,2022.0,Have access to the Internet elsewhere,7.973316658914762
+BEL,Belgium,2022.0,Internet service is not available in the area,0.0
+BEL,Belgium,2022.0,Cost of the equipment is too high,23.46608851345361
+BEL,Belgium,2022.0,Do not need the Internet,41.55210155296263
+BEL,Belgium,2022.0,no electricity in the household,0.0
+BEL,Belgium,2022.0,Internet service is available but it does not correspond to household needs,0.0
+BEL,Belgium,2022.0,Cost of service is too high,22.204705334045897
+BEL,Belgium,2022.0,other reason,49.44692496443872
+BEL,Belgium,2022.0,Privacy or security concerns,9.080193991827128
+BEL,Belgium,2022.0,cultural reasons,5.958346941964419
+BLR,Belarus,2022.0,cultural reasons,3.136042503979023
+BLR,Belarus,2022.0,Privacy or security concerns,1.7329073775090746
+BLR,Belarus,2022.0,other reason,3.8127626441322295
+BLR,Belarus,2022.0,Have access to the Internet elsewhere,9.895915633265776
+BLR,Belarus,2022.0,Internet service is available but it does not correspond to household needs,1.0861873518601215
+BLR,Belarus,2022.0,Cost of the equipment is too high,0.9790113702724056
+BLR,Belarus,2022.0,Do not need the Internet,94.36982583902991
+BLR,Belarus,2022.0,Cost of service is too high,2.987873999519082
+BLR,Belarus,2022.0,Internet service is not available in the area,0.3412226764224291
+COL,Colombia,2022.0,Do not need the Internet,29.228212463984693
+COL,Colombia,2022.0,Internet service is not available in the area,5.180488980456436
+COL,Colombia,2022.0,Cost of service is too high,52.5103168333445
+COL,Colombia,2022.0,Have access to the Internet elsewhere,2.811572871556621
+COL,Colombia,2022.0,other reason,10.269408850657747
+CIV,Côte d'Ivoire,2022.0,Internet service is available but it does not correspond to household needs,6.041043474061118
+CIV,Côte d'Ivoire,2022.0,Have access to the Internet elsewhere,11.09882297050206
+CIV,Côte d'Ivoire,2022.0,no electricity in the household,7.480628285098007
+CIV,Côte d'Ivoire,2022.0,Internet service is not available in the area,11.639636275059411
+CIV,Côte d'Ivoire,2022.0,Do not need the Internet,35.11395529849325
+CIV,Côte d'Ivoire,2022.0,Cost of service is too high,21.916330448490378
+CIV,Côte d'Ivoire,2022.0,Cost of the equipment is too high,30.70616234860466
+CIV,Côte d'Ivoire,2022.0,other reason,22.219900316429936
+CIV,Côte d'Ivoire,2022.0,Privacy or security concerns,5.703638161609935
+CIV,Côte d'Ivoire,2022.0,cultural reasons,3.6538863548857408
+DOM,Dominican Rep.,2022.0,Cost of service is too high,17.854662377926147
+DOM,Dominican Rep.,2022.0,Internet service is not available in the area,0.668463537334721
+DOM,Dominican Rep.,2022.0,Do not need the Internet,1.8211401347924767
+DOM,Dominican Rep.,2022.0,Cost of the equipment is too high,9.64250291155001
+DOM,Dominican Rep.,2022.0,Have access to the Internet elsewhere,7.43572627824422
+DOM,Dominican Rep.,2022.0,Privacy or security concerns,0.0478588852312697
+DOM,Dominican Rep.,2022.0,other reason,18.539844893608823
+DOM,Dominican Rep.,2022.0,cultural reasons,0.0136153134788938
+EGY,Egypt,2022.0,Cost of service is too high,32.45390814723971
+EGY,Egypt,2022.0,Internet service is available but it does not correspond to household needs,3.436838931301341
+EGY,Egypt,2022.0,Internet service is not available in the area,1.8597784375587303
+EGY,Egypt,2022.0,Do not need the Internet,62.50850971998927
+EGY,Egypt,2022.0,Cost of the equipment is too high,32.33219653845838
+EGY,Egypt,2022.0,no electricity in the household,0.099739162973933
+EGY,Egypt,2022.0,Have access to the Internet elsewhere,11.867130662313151
+EGY,Egypt,2022.0,Privacy or security concerns,2.3495162489470163
+EGY,Egypt,2022.0,cultural reasons,6.971726827661216
+EGY,Egypt,2022.0,other reason,0.7583242500193954
+IRQ,Iraq,2022.0,other reason,2.2867775684320515
+IRQ,Iraq,2022.0,cultural reasons,24.862057074939525
+IRQ,Iraq,2022.0,Privacy or security concerns,15.231654311073136
+IRQ,Iraq,2022.0,Cost of the equipment is too high,68.58898346933346
+IRQ,Iraq,2022.0,Internet service is available but it does not correspond to household needs,11.998888987823246
+IRQ,Iraq,2022.0,Do not need the Internet,49.121507187227486
+IRQ,Iraq,2022.0,Cost of service is too high,70.94180455779887
+IRQ,Iraq,2022.0,no electricity in the household,18.976261782176252
+IRQ,Iraq,2022.0,Internet service is not available in the area,6.469647414414659
+IRQ,Iraq,2022.0,Have access to the Internet elsewhere,25.27732736794432
+KOR,Korea (Rep. of),2022.0,Do not need the Internet,80.74568285300876
+KOR,Korea (Rep. of),2022.0,Cost of service is too high,20.73399230555667
+KOR,Korea (Rep. of),2022.0,Have access to the Internet elsewhere,0.0
+KOR,Korea (Rep. of),2022.0,cultural reasons,0.0
+KOR,Korea (Rep. of),2022.0,other reason,0.0
+KOR,Korea (Rep. of),2022.0,Privacy or security concerns,0.0
+MEX,Mexico,2022.0,Privacy or security concerns,0.1170093409008663
+MEX,Mexico,2022.0,other reason,1.2555849685856733
+MEX,Mexico,2022.0,Cost of service is too high,57.24954997219391
+MEX,Mexico,2022.0,Internet service is available but it does not correspond to household needs,0.6802418896818536
+MEX,Mexico,2022.0,Internet service is not available in the area,3.876991132879288
+MEX,Mexico,2022.0,Do not need the Internet,25.16351960381507
+MYS,Malaysia,2022.0,Do not need the Internet,50.52705117826636
+MYS,Malaysia,2022.0,Cost of service is too high,29.4146402572804
+MYS,Malaysia,2022.0,Have access to the Internet elsewhere,8.140972033563495
+MYS,Malaysia,2022.0,Cost of the equipment is too high,30.01579636565486
+MYS,Malaysia,2022.0,Internet service is available but it does not correspond to household needs,11.544646847284334
+MYS,Malaysia,2022.0,Internet service is not available in the area,10.768362582118575
+MYS,Malaysia,2022.0,cultural reasons,13.14117283992834
+MYS,Malaysia,2022.0,other reason,47.29845239905458
+MYS,Malaysia,2022.0,Privacy or security concerns,20.312176919054306
+PHL,Philippines,2022.0,Privacy or security concerns,2.28913655094081
+PHL,Philippines,2022.0,Internet service is available but it does not correspond to household needs,11.247044475464556
+PHL,Philippines,2022.0,Do not need the Internet,42.12357792617581
+PHL,Philippines,2022.0,Internet service is not available in the area,15.655460628976464
+PHL,Philippines,2022.0,Have access to the Internet elsewhere,12.345183662591916
+PHL,Philippines,2022.0,Cost of service is too high,48.08881359524582
+PRT,Portugal,2022.0,Do not need the Internet,41.05047185029844
+PRT,Portugal,2022.0,Cost of service is too high,50.909420874334565
+PRT,Portugal,2022.0,no electricity in the household,0.0
+PRT,Portugal,2022.0,Have access to the Internet elsewhere,9.291317147927083
+PRT,Portugal,2022.0,Cost of the equipment is too high,49.62141071140507
+PRT,Portugal,2022.0,Internet service is not available in the area,6.108596144539442
+PRT,Portugal,2022.0,Internet service is available but it does not correspond to household needs,0.0
+PRT,Portugal,2022.0,cultural reasons,0.0
+PRT,Portugal,2022.0,other reason,74.52361267946443
+PRT,Portugal,2022.0,Privacy or security concerns,22.472374576544603
+RUS,Russian Federation,2022.0,Internet service is available but it does not correspond to household needs,0.2801304516328228
+RUS,Russian Federation,2022.0,Cost of service is too high,10.327446830581328
+RUS,Russian Federation,2022.0,Have access to the Internet elsewhere,3.137106035175396
+RUS,Russian Federation,2022.0,Cost of the equipment is too high,9.804497189867382
+RUS,Russian Federation,2022.0,Internet service is not available in the area,4.8933273646560655
+RUS,Russian Federation,2022.0,Do not need the Internet,77.06609426140591
+RUS,Russian Federation,2022.0,other reason,7.326299581341256
+RUS,Russian Federation,2022.0,Privacy or security concerns,1.2496550196054828
+SGP,Singapore,2022.0,Privacy or security concerns,0.0
+SGP,Singapore,2022.0,cultural reasons,0.0
+SGP,Singapore,2022.0,other reason,41.68994692071696
+SGP,Singapore,2022.0,Do not need the Internet,39.46240001602684
+SGP,Singapore,2022.0,Cost of service is too high,7.95143772048087
+SGP,Singapore,2022.0,Internet service is available but it does not correspond to household needs,0.0
+SGP,Singapore,2022.0,Cost of the equipment is too high,5.104701034395761
+SGP,Singapore,2022.0,Have access to the Internet elsewhere,5.878005570465924
+UZB,Uzbekistan,2022.0,Do not need the Internet,47.42755309310882
+UZB,Uzbekistan,2022.0,Cost of service is too high,10.290854557658632
+UZB,Uzbekistan,2022.0,Internet service is available but it does not correspond to household needs,5.36916879555831
+UZB,Uzbekistan,2022.0,Cost of the equipment is too high,17.897124717538112
+UZB,Uzbekistan,2022.0,Have access to the Internet elsewhere,4.026719695184351
+UZB,Uzbekistan,2022.0,Internet service is not available in the area,2.9083259145081484
+UZB,Uzbekistan,2022.0,no electricity in the household,0.0
+UZB,Uzbekistan,2022.0,Privacy or security concerns,3.355808947966135
+UZB,Uzbekistan,2022.0,cultural reasons,2.4608428810501617
+UZB,Uzbekistan,2022.0,other reason,7.158787126421492
+KAZ,Kazakhstan,2022.0,other reason,5.191746715965887
+KAZ,Kazakhstan,2022.0,Internet service is not available in the area,1.3795730291150294
+KAZ,Kazakhstan,2022.0,Have access to the Internet elsewhere,5.702699689712194
+KAZ,Kazakhstan,2022.0,Cost of service is too high,22.10057412534141
+KAZ,Kazakhstan,2022.0,Do not need the Internet,60.52934728080117
+KAZ,Kazakhstan,2022.0,Cost of the equipment is too high,4.980862488619684
+ALB,Albania,2021.0,Privacy or security concerns,0.3061971643479997
+ALB,Albania,2021.0,other reason,1.6630056136146796
+ALB,Albania,2021.0,Have access to the Internet elsewhere,5.216445894073532
+ALB,Albania,2021.0,Internet service is not available in the area,5.815527302580488
+ALB,Albania,2021.0,Do not need the Internet,23.20220106947125
+ALB,Albania,2021.0,Cost of the equipment is too high,25.225764938205863
+ALB,Albania,2021.0,Cost of service is too high,25.393285850584657
+AZE,Azerbaijan,2021.0,Cost of the equipment is too high,5.93219545535405
+AZE,Azerbaijan,2021.0,Internet service is available but it does not correspond to household needs,2.386547698184576
+AZE,Azerbaijan,2021.0,Internet service is not available in the area,5.0457835160616815
+AZE,Azerbaijan,2021.0,Cost of service is too high,7.977941520686846
+AZE,Azerbaijan,2021.0,Do not need the Internet,32.18445420243992
+AZE,Azerbaijan,2021.0,Have access to the Internet elsewhere,3.954796970236033
+AZE,Azerbaijan,2021.0,other reason,4.451019127959778
+AZE,Azerbaijan,2021.0,Privacy or security concerns,1.4135309483460825
+AZE,Azerbaijan,2021.0,cultural reasons,4.841208909528402
+BRA,Brazil,2021.0,Privacy or security concerns,40.77951003812043
+BRA,Brazil,2021.0,cultural reasons,34.36848302718334
+BRA,Brazil,2021.0,Internet service is not available in the area,17.54957957733642
+BRA,Brazil,2021.0,Cost of service is too high,61.3004225795875
+BRA,Brazil,2021.0,Have access to the Internet elsewhere,26.36395461255979
+BRA,Brazil,2021.0,Do not need the Internet,66.58408917164893
+BEL,Belgium,2021.0,cultural reasons,5.648694837719139
+BEL,Belgium,2021.0,Privacy or security concerns,9.20850143415781
+BEL,Belgium,2021.0,other reason,56.13270386969496
+BEL,Belgium,2021.0,Cost of the equipment is too high,22.438025395581427
+BEL,Belgium,2021.0,Have access to the Internet elsewhere,10.55163117214918
+BEL,Belgium,2021.0,Cost of service is too high,20.605462187154647
+BEL,Belgium,2021.0,Do not need the Internet,35.38042463050963
+BGD,Bangladesh,2021.0,Internet service is not available in the area,8.347880746277117
+BGD,Bangladesh,2021.0,no electricity in the household,0.3070499428156534
+BGD,Bangladesh,2021.0,Cost of service is too high,49.04552493686589
+BGD,Bangladesh,2021.0,Internet service is available but it does not correspond to household needs,8.045980041209386
+BGD,Bangladesh,2021.0,Cost of the equipment is too high,35.56939288817082
+BGD,Bangladesh,2021.0,Have access to the Internet elsewhere,7.183040378909028
+BGD,Bangladesh,2021.0,Do not need the Internet,64.26174344125381
+BGD,Bangladesh,2021.0,cultural reasons,0.2654774779410601
+BGD,Bangladesh,2021.0,other reason,1.4325935261191096
+BGD,Bangladesh,2021.0,Privacy or security concerns,2.7015428079689574
+BLR,Belarus,2021.0,Privacy or security concerns,1.267732263974209
+BLR,Belarus,2021.0,cultural reasons,3.0286387113520346
+BLR,Belarus,2021.0,other reason,4.986100086897968
+BLR,Belarus,2021.0,Cost of the equipment is too high,8.213174634821634
+BLR,Belarus,2021.0,Have access to the Internet elsewhere,10.90437837858172
+BLR,Belarus,2021.0,Do not need the Internet,93.68616667105545
+BLR,Belarus,2021.0,Cost of service is too high,3.343502778101712
+BLR,Belarus,2021.0,Internet service is available but it does not correspond to household needs,2.29884625078528
+BLZ,Belize,2021.0,Cost of service is too high,42.24450927879816
+BLZ,Belize,2021.0,Do not need the Internet,25.731644410412525
+BLZ,Belize,2021.0,other reason,32.023185286310124
+BTN,Bhutan,2021.0,Cost of the equipment is too high,24.658432615586403
+BTN,Bhutan,2021.0,Do not need the Internet,19.411957590993552
+BTN,Bhutan,2021.0,Cost of service is too high,21.31380478740846
+BTN,Bhutan,2021.0,Internet service is available but it does not correspond to household needs,7.57459831675593
+BTN,Bhutan,2021.0,no electricity in the household,0.1639523445185266
+BTN,Bhutan,2021.0,Internet service is not available in the area,6.470652530331184
+BTN,Bhutan,2021.0,Have access to the Internet elsewhere,0.2513935949284074
+BTN,Bhutan,2021.0,Privacy or security concerns,0.9618537545086894
+BTN,Bhutan,2021.0,cultural reasons,1.9237075090173787
+COL,Colombia,2021.0,other reason,9.731180089099247
+COL,Colombia,2021.0,Internet service is not available in the area,6.236798949306629
+COL,Colombia,2021.0,Cost of service is too high,53.77923351003788
+COL,Colombia,2021.0,Have access to the Internet elsewhere,3.327403580632088
+COL,Colombia,2021.0,Do not need the Internet,26.925383870924147
+ESP,Spain,2021.0,Cost of the equipment is too high,25.65502842444222
+ESP,Spain,2021.0,Internet service is not available in the area,4.447641161478218
+ESP,Spain,2021.0,Do not need the Internet,75.01328829790523
+ESP,Spain,2021.0,Have access to the Internet elsewhere,3.443031115966718
+HRV,Croatia,2021.0,other reason,10.678565933220495
+HRV,Croatia,2021.0,Privacy or security concerns,13.731457261231071
+HRV,Croatia,2021.0,Internet service is not available in the area,4.967715830925556
+HRV,Croatia,2021.0,Cost of service is too high,36.20613997595072
+HRV,Croatia,2021.0,Have access to the Internet elsewhere,3.349803103611382
+HRV,Croatia,2021.0,Do not need the Internet,84.93386446917759
+HRV,Croatia,2021.0,Cost of the equipment is too high,31.96674132202675
+IRN,Iran (Islamic Republic of),2021.0,Privacy or security concerns,1.9763637870061783
+IRN,Iran (Islamic Republic of),2021.0,other reason,32.4067379157224
+IRN,Iran (Islamic Republic of),2021.0,cultural reasons,1.1181193811617651
+IRN,Iran (Islamic Republic of),2021.0,Have access to the Internet elsewhere,0.6577720319777617
+IRN,Iran (Islamic Republic of),2021.0,Internet service is not available in the area,3.748714768599949
+IRN,Iran (Islamic Republic of),2021.0,Cost of the equipment is too high,13.412924911096844
+IRN,Iran (Islamic Republic of),2021.0,Do not need the Internet,65.95791120378688
+IRN,Iran (Islamic Republic of),2021.0,Internet service is available but it does not correspond to household needs,1.0265061525035413
+IRN,Iran (Islamic Republic of),2021.0,Cost of service is too high,10.88591452084274
+IRN,Iran (Islamic Republic of),2021.0,no electricity in the household,0.0
+JAM,Jamaica,2021.0,Have access to the Internet elsewhere,9.059641885168812
+JAM,Jamaica,2021.0,Cost of the equipment is too high,15.818480033803278
+JAM,Jamaica,2021.0,Do not need the Internet,37.94463350250117
+JAM,Jamaica,2021.0,Cost of service is too high,48.380941130501554
+KOR,Korea (Rep. of),2021.0,Do not need the Internet,92.66452044905232
+KOR,Korea (Rep. of),2021.0,Cost of service is too high,11.334968613623731
+MAC,"Macao, China",2021.0,Cost of the equipment is too high,15.196078431372548
+MAC,"Macao, China",2021.0,Do not need the Internet,16.176470588235293
+MAC,"Macao, China",2021.0,Cost of service is too high,0.4901960784313725
+MAC,"Macao, China",2021.0,other reason,28.921568627450984
+MEX,Mexico,2021.0,Cost of service is too high,59.70223270944896
+MEX,Mexico,2021.0,Internet service is available but it does not correspond to household needs,0.5580797090716862
+MEX,Mexico,2021.0,Do not need the Internet,21.86450330181632
+MEX,Mexico,2021.0,Internet service is not available in the area,4.865113308596701
+MEX,Mexico,2021.0,Privacy or security concerns,0.209791552805787
+MEX,Mexico,2021.0,other reason,1.1255178466044529
+MYS,Malaysia,2021.0,cultural reasons,14.515001331760589
+MYS,Malaysia,2021.0,Privacy or security concerns,23.632805068300293
+MYS,Malaysia,2021.0,other reason,62.442448917468894
+MYS,Malaysia,2021.0,Cost of service is too high,39.73260149918192
+MYS,Malaysia,2021.0,Internet service is not available in the area,11.692382329439518
+MYS,Malaysia,2021.0,Internet service is available but it does not correspond to household needs,16.40610136600586
+MYS,Malaysia,2021.0,Do not need the Internet,66.84653361744226
+MYS,Malaysia,2021.0,Have access to the Internet elsewhere,19.93502910848141
+MYS,Malaysia,2021.0,Cost of the equipment is too high,39.4702922263232
+MAR,Morocco,2021.0,cultural reasons,5.322664489900123
+MAR,Morocco,2021.0,other reason,0.0
+MAR,Morocco,2021.0,Privacy or security concerns,7.628508587394406
+MAR,Morocco,2021.0,Do not need the Internet,69.7203543628129
+MAR,Morocco,2021.0,Internet service is available but it does not correspond to household needs,2.615029962200516
+MAR,Morocco,2021.0,Have access to the Internet elsewhere,24.483668792205297
+MAR,Morocco,2021.0,Cost of service is too high,43.09972563671681
+MAR,Morocco,2021.0,Cost of the equipment is too high,37.88833489956389
+PRT,Portugal,2021.0,no electricity in the household,0.0
+PRT,Portugal,2021.0,Cost of service is too high,0.0
+PRT,Portugal,2021.0,Internet service is not available in the area,0.0
+PRT,Portugal,2021.0,Do not need the Internet,0.0
+PRT,Portugal,2021.0,Have access to the Internet elsewhere,0.0
+PRT,Portugal,2021.0,Internet service is available but it does not correspond to household needs,0.0
+PRT,Portugal,2021.0,Cost of the equipment is too high,0.0
+PRT,Portugal,2021.0,cultural reasons,0.0
+PRT,Portugal,2021.0,Privacy or security concerns,0.0
+PRT,Portugal,2021.0,other reason,0.0
+RUS,Russian Federation,2021.0,other reason,7.989539129325474
+RUS,Russian Federation,2021.0,Privacy or security concerns,1.1187729441758756
+RUS,Russian Federation,2021.0,Internet service is available but it does not correspond to household needs,0.4542616943075037
+RUS,Russian Federation,2021.0,Cost of the equipment is too high,11.105513093061845
+RUS,Russian Federation,2021.0,Have access to the Internet elsewhere,3.937105346922964
+RUS,Russian Federation,2021.0,Cost of service is too high,12.086045491242793
+RUS,Russian Federation,2021.0,Internet service is not available in the area,4.744309273557359
+RUS,Russian Federation,2021.0,Do not need the Internet,71.64522930106443
+SGP,Singapore,2021.0,Cost of the equipment is too high,14.562647753191488
+SGP,Singapore,2021.0,Do not need the Internet,36.579815746808514
+CHE,Switzerland,2021.0,Do not need the Internet,57.56162693185309
+THA,Thailand,2021.0,other reason,1.6592760446172177
+THA,Thailand,2021.0,Cost of the equipment is too high,1.5573049950186555
+THA,Thailand,2021.0,Internet service is not available in the area,2.087085620519232
+THA,Thailand,2021.0,Cost of service is too high,1.831571956007892
+THA,Thailand,2021.0,Do not need the Internet,90.20452813971204
+THA,Thailand,2021.0,Have access to the Internet elsewhere,2.660233244124944
+ARE,United Arab Emirates,2021.0,Cost of the equipment is too high,9.404874218138833
+ARE,United Arab Emirates,2021.0,Have access to the Internet elsewhere,74.9689973560731
+ARE,United Arab Emirates,2021.0,Do not need the Internet,29.96959918316014
+ARE,United Arab Emirates,2021.0,Cost of service is too high,18.80974843627762
+ARE,United Arab Emirates,2021.0,other reason,9.404874218138833
+ARE,United Arab Emirates,2021.0,Privacy or security concerns,4.75193644705962
+UKR,Ukraine,2021.0,Have access to the Internet elsewhere,0.5881432275834297
+UKR,Ukraine,2021.0,Internet service is not available in the area,0.0
+UKR,Ukraine,2021.0,Do not need the Internet,78.49769438102211
+UKR,Ukraine,2021.0,Internet service is available but it does not correspond to household needs,0.1472717563051581
+UKR,Ukraine,2021.0,Cost of service is too high,25.497872916075156
+UKR,Ukraine,2021.0,Cost of the equipment is too high,25.97122675603381
+UKR,Ukraine,2021.0,Privacy or security concerns,0.8066323805958352
+UKR,Ukraine,2021.0,cultural reasons,0.7618806426318112
+UZB,Uzbekistan,2021.0,cultural reasons,2.222297858291057
+UZB,Uzbekistan,2021.0,other reason,3.838514482502736
+UZB,Uzbekistan,2021.0,Privacy or security concerns,3.0304061703968967
+UZB,Uzbekistan,2021.0,Cost of the equipment is too high,16.16158984531785
+UZB,Uzbekistan,2021.0,Internet service is available but it does not correspond to household needs,4.848361674235568
+UZB,Uzbekistan,2021.0,Have access to the Internet elsewhere,3.636487404476276
+UZB,Uzbekistan,2021.0,Cost of service is too high,9.292957390817683
+UZB,Uzbekistan,2021.0,Internet service is not available in the area,2.6263520143439774
+UZB,Uzbekistan,2021.0,Do not need the Internet,42.82829954961214
+BIH,Bosnia and Herzegovina,2021.0,other reason,1.3532285217519295
+BIH,Bosnia and Herzegovina,2021.0,Privacy or security concerns,25.38246414542377
+BIH,Bosnia and Herzegovina,2021.0,Internet service is available but it does not correspond to household needs,1.7225835533517933
+BIH,Bosnia and Herzegovina,2021.0,Internet service is not available in the area,1.3454090503481964
+BIH,Bosnia and Herzegovina,2021.0,Cost of service is too high,8.000239183831173
+BIH,Bosnia and Herzegovina,2021.0,Have access to the Internet elsewhere,9.996964205219728
+BIH,Bosnia and Herzegovina,2021.0,Cost of the equipment is too high,17.359686485193603
+BIH,Bosnia and Herzegovina,2021.0,Do not need the Internet,51.42544364000994
+KAZ,Kazakhstan,2021.0,other reason,3.5812319599607965
+KAZ,Kazakhstan,2021.0,Have access to the Internet elsewhere,1.1629825973614811
+KAZ,Kazakhstan,2021.0,Internet service is not available in the area,3.0308949880266343
+KAZ,Kazakhstan,2021.0,Do not need the Internet,73.7124842965353
+KAZ,Kazakhstan,2021.0,Cost of the equipment is too high,3.039988683401312
+KAZ,Kazakhstan,2021.0,Cost of service is too high,15.074652502955452
+ALB,Albania,2020.0,Cost of the equipment is too high,23.79210450693943
+ALB,Albania,2020.0,Have access to the Internet elsewhere,2.1544459718694906
+ALB,Albania,2020.0,Do not need the Internet,24.765255481255387
+ALB,Albania,2020.0,Cost of service is too high,21.83492936306376
+ALB,Albania,2020.0,Internet service is not available in the area,4.084438127635779
+ALB,Albania,2020.0,other reason,0.4147347328688926
+AZE,Azerbaijan,2020.0,Privacy or security concerns,3.2998776009791926
+AZE,Azerbaijan,2020.0,cultural reasons,7.600061199510404
+AZE,Azerbaijan,2020.0,other reason,10.50030599755202
+AZE,Azerbaijan,2020.0,Internet service is available but it does not correspond to household needs,6.600061199510404
+AZE,Azerbaijan,2020.0,Do not need the Internet,37.39993880048959
+AZE,Azerbaijan,2020.0,Cost of service is too high,11.299877600979192
+AZE,Azerbaijan,2020.0,Cost of the equipment is too high,9.799877600979192
+AZE,Azerbaijan,2020.0,Internet service is not available in the area,7.600061199510404
+AZE,Azerbaijan,2020.0,Have access to the Internet elsewhere,5.899938800489596
+BRA,Brazil,2020.0,Have access to the Internet elsewhere,36.74150049232991
+BRA,Brazil,2020.0,Cost of the equipment is too high,41.756388734161206
+BRA,Brazil,2020.0,Internet service is not available in the area,32.02127453713233
+BRA,Brazil,2020.0,Do not need the Internet,70.01941172773492
+BRA,Brazil,2020.0,Cost of service is too high,67.32468713422095
+BRA,Brazil,2020.0,cultural reasons,42.43890975113871
+BRA,Brazil,2020.0,Privacy or security concerns,47.11880255643722
+BRA,Brazil,2020.0,other reason,50.17742108048383
+BEL,Belgium,2020.0,cultural reasons,6.101006133486419
+BEL,Belgium,2020.0,other reason,54.17459789910465
+BEL,Belgium,2020.0,Privacy or security concerns,9.519744991993232
+BEL,Belgium,2020.0,Have access to the Internet elsewhere,10.28441651307772
+BEL,Belgium,2020.0,Cost of service is too high,16.643250647087854
+BEL,Belgium,2020.0,Cost of the equipment is too high,18.97578833932582
+BEL,Belgium,2020.0,Do not need the Internet,46.11848002336566
+BEL,Belgium,2020.0,Internet service is not available in the area,1.1101207561611828
+EGY,Egypt,2020.0,Do not need the Internet,93.01053579073888
+EGY,Egypt,2020.0,Cost of the equipment is too high,15.22125102041296
+EGY,Egypt,2020.0,no electricity in the household,0.1863220606024755
+EGY,Egypt,2020.0,Cost of service is too high,17.52468087479244
+EGY,Egypt,2020.0,Have access to the Internet elsewhere,1.9493843676922955
+EGY,Egypt,2020.0,Internet service is available but it does not correspond to household needs,2.241207398414037
+EGY,Egypt,2020.0,Internet service is not available in the area,1.8391929734991852
+EGY,Egypt,2020.0,other reason,0.2548751502872062
+EGY,Egypt,2020.0,cultural reasons,5.108456920452391
+EGY,Egypt,2020.0,Privacy or security concerns,3.721424664420418
+HRV,Croatia,2020.0,Privacy or security concerns,21.32331293096769
+HRV,Croatia,2020.0,other reason,2.0712274992897908
+HRV,Croatia,2020.0,Do not need the Internet,71.43668810206348
+HRV,Croatia,2020.0,Cost of service is too high,30.468737894165955
+HRV,Croatia,2020.0,Have access to the Internet elsewhere,10.270912424782418
+HRV,Croatia,2020.0,Cost of the equipment is too high,32.26104697709253
+HRV,Croatia,2020.0,Internet service is not available in the area,10.429999225226622
+ITA,Italy,2020.0,Internet service is not available in the area,1.6533346422720647
+ITA,Italy,2020.0,Cost of service is too high,8.042963682713996
+ITA,Italy,2020.0,Cost of the equipment is too high,6.455261905811074
+ITA,Italy,2020.0,Have access to the Internet elsewhere,7.562505078180271
+ITA,Italy,2020.0,Do not need the Internet,25.340923690545317
+ITA,Italy,2020.0,other reason,64.10389849923853
+ITA,Italy,2020.0,Privacy or security concerns,2.3443576094985814
+KOR,Korea (Rep. of),2020.0,other reason,0.0
+KOR,Korea (Rep. of),2020.0,cultural reasons,0.0
+KOR,Korea (Rep. of),2020.0,Privacy or security concerns,0.0
+KOR,Korea (Rep. of),2020.0,Cost of service is too high,33.27056372450819
+KOR,Korea (Rep. of),2020.0,Do not need the Internet,89.09211106214191
+MUS,Mauritius,2020.0,Do not need the Internet,72.11756958550136
+MUS,Mauritius,2020.0,Cost of service is too high,27.150634872051715
+MUS,Mauritius,2020.0,Have access to the Internet elsewhere,3.550460502518156
+MUS,Mauritius,2020.0,cultural reasons,0.6687257111587227
+MUS,Mauritius,2020.0,Privacy or security concerns,0.8032128514056224
+MEX,Mexico,2020.0,other reason,1.994772516172196
+MEX,Mexico,2020.0,Privacy or security concerns,0.1667760972308634
+MEX,Mexico,2020.0,Do not need the Internet,19.35570884073509
+MEX,Mexico,2020.0,Cost of service is too high,63.6881266695273
+MEX,Mexico,2020.0,Internet service is not available in the area,4.345454359759847
+MEX,Mexico,2020.0,Internet service is available but it does not correspond to household needs,0.4350616926756045
+MYS,Malaysia,2020.0,Cost of service is too high,46.10535293025303
+MYS,Malaysia,2020.0,Have access to the Internet elsewhere,24.38303403784122
+MYS,Malaysia,2020.0,Internet service is available but it does not correspond to household needs,20.478551827066585
+MYS,Malaysia,2020.0,Cost of the equipment is too high,47.69479425297634
+MYS,Malaysia,2020.0,Do not need the Internet,65.80603451240397
+MYS,Malaysia,2020.0,Internet service is not available in the area,17.272846069726334
+MYS,Malaysia,2020.0,other reason,55.40774568938836
+MYS,Malaysia,2020.0,cultural reasons,16.646010577934895
+MYS,Malaysia,2020.0,Privacy or security concerns,22.91890479170822
+QAT,Qatar,2020.0,other reason,76.22023535492472
+QAT,Qatar,2020.0,cultural reasons,3.0172283552368486
+QAT,Qatar,2020.0,Privacy or security concerns,1.297620559997517
+QAT,Qatar,2020.0,Internet service is available but it does not correspond to household needs,0.0
+QAT,Qatar,2020.0,Cost of the equipment is too high,55.398997380817136
+QAT,Qatar,2020.0,Internet service is not available in the area,3.892861679992453
+QAT,Qatar,2020.0,Have access to the Internet elsewhere,20.38839967250886
+QAT,Qatar,2020.0,Do not need the Internet,0.0
+QAT,Qatar,2020.0,Cost of service is too high,81.79447761594064
+RUS,Russian Federation,2020.0,Have access to the Internet elsewhere,5.42923600016922
+RUS,Russian Federation,2020.0,Do not need the Internet,70.8904858286138
+RUS,Russian Federation,2020.0,Cost of service is too high,21.021082367682748
+RUS,Russian Federation,2020.0,Internet service is not available in the area,6.989859791350985
+RUS,Russian Federation,2020.0,Privacy or security concerns,1.2425305659190908
+RUS,Russian Federation,2020.0,other reason,7.513478776684888
+SVN,Slovenia,2020.0,Cost of the equipment is too high,15.721621910773507
+SVN,Slovenia,2020.0,Have access to the Internet elsewhere,7.515780464320103
+SVN,Slovenia,2020.0,Cost of service is too high,11.851396169894084
+SVN,Slovenia,2020.0,Do not need the Internet,59.57392746335722
+SVN,Slovenia,2020.0,Internet service is not available in the area,3.638868086016904
+SVN,Slovenia,2020.0,other reason,17.29298170536001
+SVN,Slovenia,2020.0,Privacy or security concerns,4.4533005242323735
+THA,Thailand,2020.0,Privacy or security concerns,0.1250442802081851
+THA,Thailand,2020.0,Internet service is not available in the area,6.507449671947995
+THA,Thailand,2020.0,Have access to the Internet elsewhere,1.6504028363554892
+THA,Thailand,2020.0,Cost of the equipment is too high,2.6725565651274814
+THA,Thailand,2020.0,Cost of service is too high,4.929711792614213
+THA,Thailand,2020.0,Do not need the Internet,54.37367348607104
+THA,Thailand,2020.0,Internet service is available but it does not correspond to household needs,0.0320936893512533
+ARE,United Arab Emirates,2020.0,Internet service is not available in the area,0.0
+ARE,United Arab Emirates,2020.0,no electricity in the household,0.0
+ARE,United Arab Emirates,2020.0,Have access to the Internet elsewhere,71.38936870256559
+ARE,United Arab Emirates,2020.0,Cost of service is too high,18.99717094325978
+ARE,United Arab Emirates,2020.0,Do not need the Internet,33.29504170581843
+ARE,United Arab Emirates,2020.0,Internet service is available but it does not correspond to household needs,0.0
+ARE,United Arab Emirates,2020.0,Cost of the equipment is too high,9.49858547162989
+ARE,United Arab Emirates,2020.0,other reason,9.49858547162989
+ARE,United Arab Emirates,2020.0,cultural reasons,0.0
+ARE,United Arab Emirates,2020.0,Privacy or security concerns,4.799285290928768
+UKR,Ukraine,2020.0,Internet service is not available in the area,0.0
+UKR,Ukraine,2020.0,Cost of service is too high,20.06799616665906
+UKR,Ukraine,2020.0,Cost of the equipment is too high,25.95383692654719
+UKR,Ukraine,2020.0,Do not need the Internet,81.17444960916873
+UKR,Ukraine,2020.0,Have access to the Internet elsewhere,1.471337953334941
+UKR,Ukraine,2020.0,Internet service is available but it does not correspond to household needs,0.0670508699988917
+UKR,Ukraine,2020.0,Privacy or security concerns,0.6658474095611867
+UKR,Ukraine,2020.0,cultural reasons,1.47055563885756
+UZB,Uzbekistan,2020.0,cultural reasons,0.1551298677906264
+UZB,Uzbekistan,2020.0,other reason,6.979493137360857
+UZB,Uzbekistan,2020.0,Privacy or security concerns,0.1551298677906264
+UZB,Uzbekistan,2020.0,Cost of service is too high,9.616250585395727
+UZB,Uzbekistan,2020.0,Internet service is not available in the area,3.412181634785115
+UZB,Uzbekistan,2020.0,no electricity in the household,0.0
+UZB,Uzbekistan,2020.0,Internet service is available but it does not correspond to household needs,0.1551298677906264
+UZB,Uzbekistan,2020.0,Do not need the Internet,63.12569797182896
+UZB,Uzbekistan,2020.0,Cost of the equipment is too high,32.2609333909723
+UZB,Uzbekistan,2020.0,Have access to the Internet elsewhere,3.412181634785115
+SRB,Serbia,2020.0,Privacy or security concerns,0.0
+SRB,Serbia,2020.0,other reason,2.0614449843451266
+SRB,Serbia,2020.0,Do not need the Internet,76.60006162505923
+SRB,Serbia,2020.0,Cost of the equipment is too high,18.51016336554785
+SRB,Serbia,2020.0,Internet service is not available in the area,4.737729482067729
+SRB,Serbia,2020.0,Cost of service is too high,10.19517987483244
+SRB,Serbia,2020.0,Have access to the Internet elsewhere,5.364828234582627
+ZWE,Zimbabwe,2020.0,Cost of service is too high,43.98958234875702
+ZWE,Zimbabwe,2020.0,Internet service is available but it does not correspond to household needs,1.7191955802114425
+ZWE,Zimbabwe,2020.0,Do not need the Internet,22.45774505713602
+ZWE,Zimbabwe,2020.0,no electricity in the household,5.908864616409212
+ZWE,Zimbabwe,2020.0,Internet service is not available in the area,9.686740441960618
+ZWE,Zimbabwe,2020.0,Cost of the equipment is too high,69.14524837586983
+ZWE,Zimbabwe,2020.0,Have access to the Internet elsewhere,2.495306555316424
+ZWE,Zimbabwe,2020.0,cultural reasons,2.393636250190436
+ZWE,Zimbabwe,2020.0,Privacy or security concerns,0.7987470249787034
+ZWE,Zimbabwe,2020.0,other reason,8.829259961827066
+BIH,Bosnia and Herzegovina,2020.0,Have access to the Internet elsewhere,8.14042664404485
+BIH,Bosnia and Herzegovina,2020.0,Internet service is not available in the area,1.6662168009837064
+BIH,Bosnia and Herzegovina,2020.0,Cost of the equipment is too high,21.847619782093638
+BIH,Bosnia and Herzegovina,2020.0,Cost of service is too high,11.51142016169458
+BIH,Bosnia and Herzegovina,2020.0,Do not need the Internet,53.42519162135877
+BIH,Bosnia and Herzegovina,2020.0,other reason,3.5393718161291847
+BIH,Bosnia and Herzegovina,2020.0,Privacy or security concerns,22.434587387480025
+GEO,Georgia,2020.0,Cost of the equipment is too high,3.7200262390572822
+GEO,Georgia,2020.0,Internet service is not available in the area,2.452703023650945
+GEO,Georgia,2020.0,Have access to the Internet elsewhere,3.505109085703289
+GEO,Georgia,2020.0,Cost of service is too high,4.294323304165772
+GEO,Georgia,2020.0,Do not need the Internet,1.1688474275677296
+GEO,Georgia,2020.0,other reason,0.2527982152671296
+GEO,Georgia,2020.0,Privacy or security concerns,0.0
+KAZ,Kazakhstan,2020.0,other reason,1.799459614259211
+KAZ,Kazakhstan,2020.0,Internet service is not available in the area,3.5892072267254367
+KAZ,Kazakhstan,2020.0,Have access to the Internet elsewhere,0.7545478316088304
+KAZ,Kazakhstan,2020.0,Cost of service is too high,12.378070798002817
+KAZ,Kazakhstan,2020.0,Do not need the Internet,79.4252487144049
+KAZ,Kazakhstan,2020.0,Cost of the equipment is too high,2.054710943433815
+ALB,Albania,2019.0,Privacy or security concerns,1.024329645262294
+ALB,Albania,2019.0,other reason,64.9737379314353
+ALB,Albania,2019.0,Have access to the Internet elsewhere,3.1071332572956245
+ALB,Albania,2019.0,Do not need the Internet,23.29223906836856
+ALB,Albania,2019.0,Cost of service is too high,23.78769496770819
+ALB,Albania,2019.0,Cost of the equipment is too high,25.090264509520456
+ALB,Albania,2019.0,Internet service is not available in the area,3.420970425205774
+SAU,Saudi Arabia,2019.0,Cost of service is too high,2.0403259278677064
+SAU,Saudi Arabia,2019.0,Internet service is available but it does not correspond to household needs,5.611988553203574
+SAU,Saudi Arabia,2019.0,Do not need the Internet,42.855582497760885
+SAU,Saudi Arabia,2019.0,Cost of the equipment is too high,35.203268016689606
+SAU,Saudi Arabia,2019.0,Internet service is not available in the area,11.223977106407148
+SAU,Saudi Arabia,2019.0,Have access to the Internet elsewhere,19.387465321012737
+SAU,Saudi Arabia,2019.0,cultural reasons,8.161303711470826
+SAU,Saudi Arabia,2019.0,Privacy or security concerns,14.284465998208706
+AZE,Azerbaijan,2019.0,Cost of the equipment is too high,40.7000543562144
+AZE,Azerbaijan,2019.0,Cost of service is too high,8.357883105059601
+AZE,Azerbaijan,2019.0,Internet service is available but it does not correspond to household needs,1.2249161728751303
+AZE,Azerbaijan,2019.0,Do not need the Internet,12.39948014879734
+AZE,Azerbaijan,2019.0,Internet service is not available in the area,1.8000183424262557
+AZE,Azerbaijan,2019.0,Have access to the Internet elsewhere,13.979389376156186
+AZE,Azerbaijan,2019.0,Privacy or security concerns,5.536952159820692
+AZE,Azerbaijan,2019.0,other reason,13.41793218223424
+AZE,Azerbaijan,2019.0,cultural reasons,2.5833741564161583
+BRA,Brazil,2019.0,cultural reasons,39.75975532579032
+BRA,Brazil,2019.0,other reason,48.72025960307731
+BRA,Brazil,2019.0,Privacy or security concerns,43.25238811258234
+BRA,Brazil,2019.0,Do not need the Internet,69.15854297247753
+BRA,Brazil,2019.0,Have access to the Internet elsewhere,29.798866391426674
+BRA,Brazil,2019.0,Internet service is not available in the area,25.09899806882557
+BRA,Brazil,2019.0,Cost of service is too high,58.619072161991824
+BRA,Brazil,2019.0,Cost of the equipment is too high,40.4091208407567
+BEL,Belgium,2019.0,cultural reasons,7.95109030747394
+BEL,Belgium,2019.0,Privacy or security concerns,10.648271871694496
+BEL,Belgium,2019.0,other reason,18.93187793257452
+BEL,Belgium,2019.0,Cost of the equipment is too high,22.211937781956586
+BEL,Belgium,2019.0,Cost of service is too high,17.501444024554523
+BEL,Belgium,2019.0,Internet service is available but it does not correspond to household needs,0.2165137282910379
+BEL,Belgium,2019.0,Do not need the Internet,48.21065581180896
+BEL,Belgium,2019.0,Have access to the Internet elsewhere,11.008196065490775
+BHR,Bahrain,2019.0,Have access to the Internet elsewhere,0.0
+BHR,Bahrain,2019.0,Do not need the Internet,60.05586592178771
+BHR,Bahrain,2019.0,Cost of the equipment is too high,19.972067039106143
+BHR,Bahrain,2019.0,Cost of service is too high,19.972067039106143
+BGR,Bulgaria,2019.0,other reason,3.081812122813753
+BGR,Bulgaria,2019.0,Privacy or security concerns,0.4502550448011249
+BGR,Bulgaria,2019.0,Cost of service is too high,24.174823280296646
+BGR,Bulgaria,2019.0,Do not need the Internet,50.07138595117833
+BGR,Bulgaria,2019.0,Cost of the equipment is too high,18.75497582517672
+BGR,Bulgaria,2019.0,Have access to the Internet elsewhere,3.5815968846140427
+BGR,Bulgaria,2019.0,Internet service is not available in the area,0.5562951771684626
+CPV,Cabo Verde,2019.0,Internet service is not available in the area,4.018110788568189
+CPV,Cabo Verde,2019.0,no electricity in the household,4.388399398871427
+CPV,Cabo Verde,2019.0,Cost of the equipment is too high,43.5424166767108
+CPV,Cabo Verde,2019.0,Do not need the Internet,18.60730735821297
+CPV,Cabo Verde,2019.0,Have access to the Internet elsewhere,12.386536832634125
+CPV,Cabo Verde,2019.0,Internet service is available but it does not correspond to household needs,0.3833088407357256
+CPV,Cabo Verde,2019.0,Cost of service is too high,37.70843821695025
+CPV,Cabo Verde,2019.0,cultural reasons,0.2841389860164079
+CPV,Cabo Verde,2019.0,Privacy or security concerns,0.0
+CPV,Cabo Verde,2019.0,other reason,8.510549529215334
+CIV,Côte d'Ivoire,2019.0,Privacy or security concerns,1.2663509275365998
+CIV,Côte d'Ivoire,2019.0,cultural reasons,0.7812892822225326
+CIV,Côte d'Ivoire,2019.0,other reason,9.820130274134362
+CIV,Côte d'Ivoire,2019.0,Internet service is not available in the area,6.794494457635512
+CIV,Côte d'Ivoire,2019.0,Internet service is available but it does not correspond to household needs,0.835024188326117
+CIV,Côte d'Ivoire,2019.0,Cost of service is too high,26.541691532181268
+CIV,Côte d'Ivoire,2019.0,Cost of the equipment is too high,36.499003263202
+CIV,Côte d'Ivoire,2019.0,no electricity in the household,6.994882994527471
+CIV,Côte d'Ivoire,2019.0,Do not need the Internet,15.430831545132497
+CIV,Côte d'Ivoire,2019.0,Have access to the Internet elsewhere,24.919816651218305
+CYP,Cyprus,2019.0,other reason,0.2643391694252132
+CYP,Cyprus,2019.0,Privacy or security concerns,24.882407309135644
+CYP,Cyprus,2019.0,Do not need the Internet,79.4374934461251
+CYP,Cyprus,2019.0,Internet service is not available in the area,2.4964916599487337
+CYP,Cyprus,2019.0,Cost of service is too high,48.376328779006926
+CYP,Cyprus,2019.0,Cost of the equipment is too high,52.7887216767995
+CYP,Cyprus,2019.0,Have access to the Internet elsewhere,10.8359634205369
+ESP,Spain,2019.0,other reason,59.21278121295159
+ESP,Spain,2019.0,Privacy or security concerns,10.240375400211551
+ESP,Spain,2019.0,Cost of the equipment is too high,27.468462264753697
+ESP,Spain,2019.0,Have access to the Internet elsewhere,10.776215187806592
+ESP,Spain,2019.0,Internet service is not available in the area,5.098215997103569
+ESP,Spain,2019.0,Cost of service is too high,25.66089036865607
+ESP,Spain,2019.0,Do not need the Internet,74.1176178272506
+EGY,Egypt,2019.0,other reason,0.2548751502872062
+EGY,Egypt,2019.0,cultural reasons,5.108456920452388
+EGY,Egypt,2019.0,Privacy or security concerns,3.72142466442042
+EGY,Egypt,2019.0,Cost of the equipment is too high,15.221251020413026
+EGY,Egypt,2019.0,Have access to the Internet elsewhere,1.9493843676922995
+EGY,Egypt,2019.0,Do not need the Internet,93.01053579073888
+EGY,Egypt,2019.0,no electricity in the household,0.1863220606024755
+EGY,Egypt,2019.0,Cost of service is too high,17.52468087479248
+EGY,Egypt,2019.0,Internet service is not available in the area,1.8391929734991852
+EGY,Egypt,2019.0,Internet service is available but it does not correspond to household needs,2.241207398414035
+FRA,France,2019.0,Cost of the equipment is too high,31.713031357212007
+FRA,France,2019.0,Internet service is not available in the area,4.780374844397477
+FRA,France,2019.0,Cost of service is too high,26.082131175953887
+FRA,France,2019.0,Have access to the Internet elsewhere,5.918044880495367
+FRA,France,2019.0,Do not need the Internet,16.943895905992594
+FRA,France,2019.0,Privacy or security concerns,14.052274023860702
+FRA,France,2019.0,other reason,64.0867798243521
+HUN,Hungary,2019.0,Privacy or security concerns,23.52303640308345
+HUN,Hungary,2019.0,Have access to the Internet elsewhere,11.94395652165361
+HUN,Hungary,2019.0,Internet service is not available in the area,6.637607668113716
+HUN,Hungary,2019.0,Cost of the equipment is too high,47.66724824003572
+HUN,Hungary,2019.0,Cost of service is too high,42.51334110950037
+HUN,Hungary,2019.0,Do not need the Internet,67.72818558943806
+HRV,Croatia,2019.0,Internet service is not available in the area,2.778606717729368
+HRV,Croatia,2019.0,Do not need the Internet,66.48015517755894
+HRV,Croatia,2019.0,Have access to the Internet elsewhere,5.265426572499088
+HRV,Croatia,2019.0,Cost of the equipment is too high,34.95018070890944
+HRV,Croatia,2019.0,Cost of service is too high,36.21472860505985
+HRV,Croatia,2019.0,Privacy or security concerns,22.995623197055608
+HRV,Croatia,2019.0,other reason,4.528084485559866
+KOR,Korea (Rep. of),2019.0,Privacy or security concerns,0.0
+KOR,Korea (Rep. of),2019.0,cultural reasons,0.0
+KOR,Korea (Rep. of),2019.0,other reason,0.0
+KOR,Korea (Rep. of),2019.0,Do not need the Internet,77.97044461992168
+KOR,Korea (Rep. of),2019.0,Cost of service is too high,30.26928593299276
+KOR,Korea (Rep. of),2019.0,Have access to the Internet elsewhere,0.0
+LTU,Lithuania,2019.0,Have access to the Internet elsewhere,4.723560385390992
+LTU,Lithuania,2019.0,Internet service is not available in the area,1.2986406751811188
+LTU,Lithuania,2019.0,Cost of the equipment is too high,17.711367540518335
+LTU,Lithuania,2019.0,Cost of service is too high,16.869725147509147
+LTU,Lithuania,2019.0,Do not need the Internet,66.30956382104712
+LTU,Lithuania,2019.0,other reason,44.96462635824795
+LTU,Lithuania,2019.0,Privacy or security concerns,1.943293001717828
+LVA,Latvia,2019.0,Cost of service is too high,18.754861749522664
+LVA,Latvia,2019.0,Internet service is not available in the area,1.6300120217806378
+LVA,Latvia,2019.0,Cost of the equipment is too high,24.286648751856305
+LVA,Latvia,2019.0,Have access to the Internet elsewhere,13.140866982533058
+LVA,Latvia,2019.0,Do not need the Internet,61.349091294816496
+LVA,Latvia,2019.0,Privacy or security concerns,3.135386464889329
+LVA,Latvia,2019.0,other reason,4.04497560285694
+MEX,Mexico,2019.0,Internet service is available but it does not correspond to household needs,0.8927610229733186
+MEX,Mexico,2019.0,Internet service is not available in the area,8.21403361570298
+MEX,Mexico,2019.0,Do not need the Internet,20.49760381087139
+MEX,Mexico,2019.0,Cost of service is too high,56.66243038458735
+MEX,Mexico,2019.0,other reason,2.4088139801540414
+MYS,Malaysia,2019.0,cultural reasons,15.846643671057691
+MYS,Malaysia,2019.0,Privacy or security concerns,30.24621991285211
+MYS,Malaysia,2019.0,other reason,71.02052957163846
+MYS,Malaysia,2019.0,Cost of the equipment is too high,59.43431054161595
+MYS,Malaysia,2019.0,Have access to the Internet elsewhere,10.731142696792178
+MYS,Malaysia,2019.0,Cost of service is too high,58.043697542580766
+MYS,Malaysia,2019.0,Do not need the Internet,77.31220511915046
+MYS,Malaysia,2019.0,Internet service is available but it does not correspond to household needs,18.978057901009574
+MYS,Malaysia,2019.0,Internet service is not available in the area,17.094385834368556
+MLT,Malta,2019.0,Have access to the Internet elsewhere,16.341611192616643
+MLT,Malta,2019.0,Cost of service is too high,21.468907891400477
+MLT,Malta,2019.0,Internet service is not available in the area,0.0
+MLT,Malta,2019.0,Cost of the equipment is too high,20.967768100864998
+MLT,Malta,2019.0,Do not need the Internet,45.33797273878348
+MLT,Malta,2019.0,other reason,11.319668092812554
+MLT,Malta,2019.0,Privacy or security concerns,15.567469381626738
+POL,Poland,2019.0,Privacy or security concerns,4.291112034715088
+POL,Poland,2019.0,Internet service is not available in the area,1.007901853309043
+POL,Poland,2019.0,Cost of service is too high,14.627311460817108
+POL,Poland,2019.0,Have access to the Internet elsewhere,2.6830319935730502
+POL,Poland,2019.0,Do not need the Internet,67.29182565120654
+POL,Poland,2019.0,Cost of the equipment is too high,21.5372245686955
+PRT,Portugal,2019.0,Cost of service is too high,50.87957104987433
+PRT,Portugal,2019.0,Have access to the Internet elsewhere,10.184702763670924
+PRT,Portugal,2019.0,Cost of the equipment is too high,50.910202165362215
+PRT,Portugal,2019.0,Do not need the Internet,47.83449464384887
+PRT,Portugal,2019.0,Internet service is not available in the area,5.125272674182264
+PRT,Portugal,2019.0,Privacy or security concerns,21.47327077333547
+QAT,Qatar,2019.0,cultural reasons,1.8972176613052487
+QAT,Qatar,2019.0,Privacy or security concerns,0.7738295129594219
+QAT,Qatar,2019.0,other reason,44.38543247344462
+QAT,Qatar,2019.0,Do not need the Internet,3.046549489768726
+QAT,Qatar,2019.0,Have access to the Internet elsewhere,16.709777436396536
+QAT,Qatar,2019.0,Cost of service is too high,52.17761376008918
+QAT,Qatar,2019.0,Cost of the equipment is too high,35.559682286578834
+QAT,Qatar,2019.0,Internet service is not available in the area,2.321488538878183
+ROU,Romania,2019.0,Do not need the Internet,39.52322524419584
+ROU,Romania,2019.0,Internet service is not available in the area,1.1725753400060397
+ROU,Romania,2019.0,Have access to the Internet elsewhere,7.016861325055477
+ROU,Romania,2019.0,Cost of the equipment is too high,17.33035519147983
+ROU,Romania,2019.0,Cost of service is too high,17.841554510243483
+ROU,Romania,2019.0,Privacy or security concerns,1.322842728899312
+ROU,Romania,2019.0,other reason,11.364368038117313
+RUS,Russian Federation,2019.0,Internet service is not available in the area,7.3191837821336145
+RUS,Russian Federation,2019.0,Have access to the Internet elsewhere,6.825365634564593
+RUS,Russian Federation,2019.0,Cost of service is too high,20.847173874411105
+RUS,Russian Federation,2019.0,Do not need the Internet,70.70700328062763
+RUS,Russian Federation,2019.0,Privacy or security concerns,0.8661227621248413
+CHE,Switzerland,2019.0,Internet service is not available in the area,11.862835111197183
+CHE,Switzerland,2019.0,Have access to the Internet elsewhere,24.67616620832123
+CHE,Switzerland,2019.0,Do not need the Internet,72.40923330751106
+CHE,Switzerland,2019.0,Cost of the equipment is too high,30.32996221167813
+CHE,Switzerland,2019.0,Cost of service is too high,30.090720689777605
+CHE,Switzerland,2019.0,Privacy or security concerns,37.375950876343566
+SVN,Slovenia,2019.0,Cost of service is too high,18.825362668348607
+SVN,Slovenia,2019.0,Have access to the Internet elsewhere,4.887520251301648
+SVN,Slovenia,2019.0,Cost of the equipment is too high,14.8418852570524
+SVN,Slovenia,2019.0,Do not need the Internet,51.81488764392337
+SVN,Slovenia,2019.0,other reason,31.358290357288617
+SVN,Slovenia,2019.0,Privacy or security concerns,5.529378300498398
+CZE,Czech Republic,2019.0,Cost of the equipment is too high,12.064618779563844
+CZE,Czech Republic,2019.0,Cost of service is too high,8.791075589005628
+CZE,Czech Republic,2019.0,Internet service is available but it does not correspond to household needs,0.3653538337216405
+CZE,Czech Republic,2019.0,Do not need the Internet,80.61675693962131
+CZE,Czech Republic,2019.0,Have access to the Internet elsewhere,3.6600413370837153
+CZE,Czech Republic,2019.0,Privacy or security concerns,3.945970112499507
+THA,Thailand,2019.0,Privacy or security concerns,0.2883086788995769
+THA,Thailand,2019.0,Cost of the equipment is too high,2.368981219518767
+THA,Thailand,2019.0,Internet service is not available in the area,8.90092420445666
+THA,Thailand,2019.0,Cost of service is too high,6.217767359146391
+THA,Thailand,2019.0,Internet service is available but it does not correspond to household needs,0.1061622612022741
+THA,Thailand,2019.0,Do not need the Internet,58.63497965672406
+THA,Thailand,2019.0,Have access to the Internet elsewhere,2.822191684854364
+ARE,United Arab Emirates,2019.0,Privacy or security concerns,47.124
+ARE,United Arab Emirates,2019.0,cultural reasons,37.719
+ARE,United Arab Emirates,2019.0,other reason,4.158
+ARE,United Arab Emirates,2019.0,Do not need the Internet,4.752
+ARE,United Arab Emirates,2019.0,Internet service is not available in the area,0.0
+ARE,United Arab Emirates,2019.0,Internet service is available but it does not correspond to household needs,0.0
+ARE,United Arab Emirates,2019.0,Cost of the equipment is too high,80.19000000000001
+ARE,United Arab Emirates,2019.0,Cost of service is too high,75.438
+ARE,United Arab Emirates,2019.0,no electricity in the household,0.0
+ARE,United Arab Emirates,2019.0,Have access to the Internet elsewhere,18.81
+BIH,Bosnia and Herzegovina,2019.0,other reason,32.23263803270741
+BIH,Bosnia and Herzegovina,2019.0,Privacy or security concerns,2.8691076719897355
+BIH,Bosnia and Herzegovina,2019.0,Cost of the equipment is too high,20.03025832417364
+BIH,Bosnia and Herzegovina,2019.0,Cost of service is too high,8.383729045901543
+BIH,Bosnia and Herzegovina,2019.0,Do not need the Internet,50.086303093119575
+BIH,Bosnia and Herzegovina,2019.0,Have access to the Internet elsewhere,7.968721920149788
+BIH,Bosnia and Herzegovina,2019.0,Internet service is not available in the area,1.3557735306532706
+GEO,Georgia,2019.0,Have access to the Internet elsewhere,6.1638863536190405
+GEO,Georgia,2019.0,Internet service is not available in the area,1.1090692336137122
+GEO,Georgia,2019.0,Cost of service is too high,5.827996112047272
+GEO,Georgia,2019.0,Do not need the Internet,0.8361283605903022
+GEO,Georgia,2019.0,Cost of the equipment is too high,5.724868204722782
+GEO,Georgia,2019.0,Privacy or security concerns,0.0
+GEO,Georgia,2019.0,other reason,0.466996504204649
+KAZ,Kazakhstan,2019.0,Do not need the Internet,72.24585449995064
+KAZ,Kazakhstan,2019.0,Cost of service is too high,14.994730595392344
+KAZ,Kazakhstan,2019.0,Internet service is not available in the area,4.217538754808458
+KAZ,Kazakhstan,2019.0,Cost of the equipment is too high,3.332117575227552
+KAZ,Kazakhstan,2019.0,Have access to the Internet elsewhere,2.124486913136434
+KAZ,Kazakhstan,2019.0,other reason,3.084868647747858
+SVK,Slovakia,2019.0,Do not need the Internet,54.54260042859374
+SVK,Slovakia,2019.0,Have access to the Internet elsewhere,8.896785070385016
+SVK,Slovakia,2019.0,Cost of service is too high,16.945675927573667
+SVK,Slovakia,2019.0,Cost of the equipment is too high,15.121069881657274
+SVK,Slovakia,2019.0,Internet service is not available in the area,1.0412739116096277
+SVK,Slovakia,2019.0,other reason,5.00369586156195
+SVK,Slovakia,2019.0,Privacy or security concerns,10.02318047575722
+DZA,Algeria,2018.0,Internet service is not available in the area,26.4649866160989
+DZA,Algeria,2018.0,Internet service is available but it does not correspond to household needs,24.014518594180707
+DZA,Algeria,2018.0,Cost of service is too high,61.56236683427176
+DZA,Algeria,2018.0,Have access to the Internet elsewhere,8.130908695050056
+DZA,Algeria,2018.0,Cost of the equipment is too high,60.219869437079744
+DZA,Algeria,2018.0,Do not need the Internet,45.21239242489837
+DZA,Algeria,2018.0,cultural reasons,25.72799457514263
+DZA,Algeria,2018.0,Privacy or security concerns,20.05940326668783
+SAU,Saudi Arabia,2018.0,Privacy or security concerns,22.304668738176225
+SAU,Saudi Arabia,2018.0,cultural reasons,9.855353741296556
+SAU,Saudi Arabia,2018.0,Do not need the Internet,51.8717101716347
+SAU,Saudi Arabia,2018.0,Cost of service is too high,42.016029693815206
+SAU,Saudi Arabia,2018.0,Internet service is available but it does not correspond to household needs,17.63625729847708
+SAU,Saudi Arabia,2018.0,Internet service is not available in the area,7.780576820657589
+SAU,Saudi Arabia,2018.0,Have access to the Internet elsewhere,80.40136314477368
+SAU,Saudi Arabia,2018.0,Cost of the equipment is too high,20.748749415958464
+AZE,Azerbaijan,2018.0,other reason,0.4201572918447593
+AZE,Azerbaijan,2018.0,Privacy or security concerns,4.648862512364006
+AZE,Azerbaijan,2018.0,cultural reasons,1.9386745796241331
+AZE,Azerbaijan,2018.0,Cost of the equipment is too high,38.13579244315257
+AZE,Azerbaijan,2018.0,Do not need the Internet,10.761622156280913
+AZE,Azerbaijan,2018.0,Have access to the Internet elsewhere,12.50247279920871
+AZE,Azerbaijan,2018.0,Internet service is not available in the area,0.8506429277942635
+AZE,Azerbaijan,2018.0,Cost of service is too high,7.457962413452028
+AZE,Azerbaijan,2018.0,Internet service is available but it does not correspond to household needs,1.1275964391691395
+BRA,Brazil,2018.0,Cost of service is too high,60.90338007838386
+BRA,Brazil,2018.0,Cost of the equipment is too high,39.24717378430368
+BRA,Brazil,2018.0,Have access to the Internet elsewhere,31.006886277876784
+BRA,Brazil,2018.0,Internet service is not available in the area,26.818580627588656
+BRA,Brazil,2018.0,Do not need the Internet,65.48383078430618
+BRA,Brazil,2018.0,cultural reasons,40.98343817518207
+BRA,Brazil,2018.0,Privacy or security concerns,44.06291274009402
+BRA,Brazil,2018.0,other reason,44.5665472202908
+BHR,Bahrain,2018.0,Do not need the Internet,90.46979865771812
+BHR,Bahrain,2018.0,Cost of service is too high,52.382550335570464
+BHR,Bahrain,2018.0,Internet service is not available in the area,28.55704697986577
+BHR,Bahrain,2018.0,cultural reasons,38.08724832214765
+BHR,Bahrain,2018.0,Privacy or security concerns,23.825503355704697
+BRN,Brunei Darussalam,2018.0,Privacy or security concerns,8.053786672731409
+BRN,Brunei Darussalam,2018.0,other reason,51.19683875369571
+BRN,Brunei Darussalam,2018.0,Cost of the equipment is too high,23.174891971798957
+BRN,Brunei Darussalam,2018.0,Have access to the Internet elsewhere,19.8231748919718
+BRN,Brunei Darussalam,2018.0,Do not need the Internet,40.93700250170571
+BRN,Brunei Darussalam,2018.0,Internet service is not available in the area,9.28473959517853
+BRN,Brunei Darussalam,2018.0,Cost of service is too high,46.59426881964976
+BRN,Brunei Darussalam,2018.0,Internet service is available but it does not correspond to household needs,24.653172617693883
+COL,Colombia,2018.0,Internet service is not available in the area,7.735174079252097
+COL,Colombia,2018.0,Cost of service is too high,50.69441092667476
+COL,Colombia,2018.0,Do not need the Internet,27.598917869147897
+COL,Colombia,2018.0,Have access to the Internet elsewhere,1.963891340798956
+COL,Colombia,2018.0,other reason,1.1456941777793412
+CPV,Cabo Verde,2018.0,Have access to the Internet elsewhere,9.318620145795704
+CPV,Cabo Verde,2018.0,no electricity in the household,15.929355553148868
+CPV,Cabo Verde,2018.0,Internet service is not available in the area,8.603251195404825
+CPV,Cabo Verde,2018.0,Internet service is available but it does not correspond to household needs,3.4597517996103435
+CPV,Cabo Verde,2018.0,Cost of service is too high,52.64631298657252
+CPV,Cabo Verde,2018.0,Do not need the Internet,33.301023325460115
+CPV,Cabo Verde,2018.0,Cost of the equipment is too high,56.84606382702938
+CPV,Cabo Verde,2018.0,cultural reasons,1.9473880365560283
+CPV,Cabo Verde,2018.0,other reason,0.9549810584557348
+CPV,Cabo Verde,2018.0,Privacy or security concerns,3.790693913693893
+EGY,Egypt,2018.0,Cost of the equipment is too high,23.02439187277007
+EGY,Egypt,2018.0,Have access to the Internet elsewhere,2.653563562074667
+EGY,Egypt,2018.0,Internet service is available but it does not correspond to household needs,1.7860849979568878
+EGY,Egypt,2018.0,Do not need the Internet,96.0267256317308
+EGY,Egypt,2018.0,Cost of service is too high,22.28555516521072
+EGY,Egypt,2018.0,no electricity in the household,0.1057309427890767
+EGY,Egypt,2018.0,Internet service is not available in the area,1.7253113199227603
+EGY,Egypt,2018.0,other reason,2.126112455141958
+EGY,Egypt,2018.0,Privacy or security concerns,3.864824498212828
+EGY,Egypt,2018.0,cultural reasons,5.156142252905006
+HRV,Croatia,2018.0,other reason,15.527184212245963
+HRV,Croatia,2018.0,Privacy or security concerns,20.717751421289943
+HRV,Croatia,2018.0,Do not need the Internet,57.40949487028687
+HRV,Croatia,2018.0,Have access to the Internet elsewhere,8.318221917271124
+HRV,Croatia,2018.0,Cost of service is too high,44.55621446775142
+HRV,Croatia,2018.0,Cost of the equipment is too high,43.31748676730053
+HRV,Croatia,2018.0,Internet service is not available in the area,6.13074233810364
+KOR,Korea (Rep. of),2018.0,Do not need the Internet,77.03480192880498
+KOR,Korea (Rep. of),2018.0,Have access to the Internet elsewhere,1.1613579252733606
+KOR,Korea (Rep. of),2018.0,Cost of service is too high,41.5314012942786
+KOR,Korea (Rep. of),2018.0,Privacy or security concerns,4.848208481696728
+KOR,Korea (Rep. of),2018.0,cultural reasons,5.593340383626503
+KOR,Korea (Rep. of),2018.0,other reason,0.0
+MAC,"Macao, China",2018.0,Cost of the equipment is too high,32.631578947368425
+MAC,"Macao, China",2018.0,Do not need the Internet,21.57894736842105
+MAC,"Macao, China",2018.0,Cost of service is too high,2.1052631578947367
+MAC,"Macao, China",2018.0,other reason,60.526315789473685
+MUS,Mauritius,2018.0,cultural reasons,0.9375695050385806
+MUS,Mauritius,2018.0,Privacy or security concerns,0.4225906345703091
+MUS,Mauritius,2018.0,Cost of service is too high,22.120138924532498
+MUS,Mauritius,2018.0,Have access to the Internet elsewhere,4.539855258430427
+MEX,Mexico,2018.0,Cost of service is too high,57.225352664598496
+MEX,Mexico,2018.0,Internet service is available but it does not correspond to household needs,0.9988926278394752
+MEX,Mexico,2018.0,Internet service is not available in the area,7.229754224405484
+MEX,Mexico,2018.0,Do not need the Internet,21.17175489235987
+MAR,Morocco,2018.0,Privacy or security concerns,5.499971438569644
+MAR,Morocco,2018.0,cultural reasons,4.899989391468725
+MAR,Morocco,2018.0,Internet service is available but it does not correspond to household needs,4.700011376569738
+MAR,Morocco,2018.0,Do not need the Internet,51.59999212760575
+MAR,Morocco,2018.0,Have access to the Internet elsewhere,15.100020209012063
+MAR,Morocco,2018.0,Cost of service is too high,29.99996639831723
+MAR,Morocco,2018.0,Cost of the equipment is too high,30.40001843292312
+MAR,Morocco,2018.0,no electricity in the household,1.399990111504784
+NER,Niger,2018.0,Have access to the Internet elsewhere,8.04791670269616
+NER,Niger,2018.0,Internet service is available but it does not correspond to household needs,24.74161449596181
+NER,Niger,2018.0,no electricity in the household,19.01827559967487
+NER,Niger,2018.0,Cost of service is too high,46.74888776957266
+NER,Niger,2018.0,Do not need the Internet,47.2503912802864
+NER,Niger,2018.0,Cost of the equipment is too high,37.3188707348287
+NER,Niger,2018.0,Internet service is not available in the area,45.36381500441001
+NER,Niger,2018.0,cultural reasons,28.615370397592656
+NER,Niger,2018.0,other reason,40.93878084845131
+NER,Niger,2018.0,Privacy or security concerns,18.9917128564758
+POL,Poland,2018.0,Privacy or security concerns,4.057023768212376
+POL,Poland,2018.0,Internet service is not available in the area,1.5421595397766612
+POL,Poland,2018.0,Cost of the equipment is too high,22.4708300383793
+POL,Poland,2018.0,Do not need the Internet,65.31582154716749
+POL,Poland,2018.0,Have access to the Internet elsewhere,2.790037985684708
+POL,Poland,2018.0,Cost of service is too high,17.31105413088611
+QAT,Qatar,2018.0,cultural reasons,2.328670782214582
+QAT,Qatar,2018.0,Privacy or security concerns,1.179964054075174
+QAT,Qatar,2018.0,other reason,13.151519887473626
+QAT,Qatar,2018.0,Cost of service is too high,45.37782292724857
+QAT,Qatar,2018.0,Have access to the Internet elsewhere,22.16925841994217
+QAT,Qatar,2018.0,Do not need the Internet,9.752285691959054
+QAT,Qatar,2018.0,Internet service is not available in the area,2.8834883175744315
+QAT,Qatar,2018.0,Cost of the equipment is too high,33.281237790107056
+QAT,Qatar,2018.0,Internet service is available but it does not correspond to household needs,3.500820504805814
+QAT,Qatar,2018.0,no electricity in the household,0.0
+RUS,Russian Federation,2018.0,Have access to the Internet elsewhere,6.188863916082742
+RUS,Russian Federation,2018.0,Do not need the Internet,69.78232666572508
+RUS,Russian Federation,2018.0,Cost of service is too high,19.91070815589041
+RUS,Russian Federation,2018.0,Internet service is not available in the area,7.152732557427245
+RUS,Russian Federation,2018.0,Privacy or security concerns,0.704231592302643
+RUS,Russian Federation,2018.0,other reason,8.02268926994571
+SVN,Slovenia,2018.0,other reason,32.36626082334059
+SVN,Slovenia,2018.0,Privacy or security concerns,3.15780865049427
+SVN,Slovenia,2018.0,Cost of the equipment is too high,9.746373478087529
+SVN,Slovenia,2018.0,Do not need the Internet,100.0
+SVN,Slovenia,2018.0,Have access to the Internet elsewhere,6.003823309923227
+SVN,Slovenia,2018.0,Cost of service is too high,7.661953977162368
+THA,Thailand,2018.0,Do not need the Internet,60.85271250579076
+THA,Thailand,2018.0,Internet service is available but it does not correspond to household needs,0.1184612101348314
+THA,Thailand,2018.0,Internet service is not available in the area,0.3051970247193974
+THA,Thailand,2018.0,Cost of the equipment is too high,5.582294755434641
+THA,Thailand,2018.0,Have access to the Internet elsewhere,3.077721426890073
+THA,Thailand,2018.0,Privacy or security concerns,0.5690417900727973
+ARE,United Arab Emirates,2018.0,Internet service is available but it does not correspond to household needs,0.0
+ARE,United Arab Emirates,2018.0,Cost of service is too high,76.2
+ARE,United Arab Emirates,2018.0,Internet service is not available in the area,0.0
+ARE,United Arab Emirates,2018.0,Do not need the Internet,4.8
+ARE,United Arab Emirates,2018.0,Cost of the equipment is too high,81.0
+ARE,United Arab Emirates,2018.0,Have access to the Internet elsewhere,19.0
+ARE,United Arab Emirates,2018.0,no electricity in the household,0.0
+ARE,United Arab Emirates,2018.0,Privacy or security concerns,47.6
+ARE,United Arab Emirates,2018.0,other reason,4.199999999999999
+ARE,United Arab Emirates,2018.0,cultural reasons,38.1
+UZB,Uzbekistan,2018.0,Do not need the Internet,74.47893921333069
+UZB,Uzbekistan,2018.0,Have access to the Internet elsewhere,4.509540024275504
+UZB,Uzbekistan,2018.0,Cost of the equipment is too high,20.70590118533461
+UZB,Uzbekistan,2018.0,Cost of service is too high,5.974229423713219
+UZB,Uzbekistan,2018.0,Internet service is available but it does not correspond to household needs,1.0091740267652192
+UZB,Uzbekistan,2018.0,Privacy or security concerns,0.1944216073740339
+UZB,Uzbekistan,2018.0,other reason,2.2448624362224083
+UZB,Uzbekistan,2018.0,cultural reasons,0.510220733020746
+SRB,Serbia,2018.0,other reason,2.975704369130257
+SRB,Serbia,2018.0,Privacy or security concerns,0.1429154757043691
+SRB,Serbia,2018.0,Cost of service is too high,10.959871705370198
+SRB,Serbia,2018.0,Do not need the Internet,52.26754830806517
+SRB,Serbia,2018.0,Internet service is not available in the area,2.474841607502733
+SRB,Serbia,2018.0,Have access to the Internet elsewhere,6.626470317048433
+SRB,Serbia,2018.0,Cost of the equipment is too high,12.685888907915013
+GEO,Georgia,2018.0,other reason,0.6054756441899883
+GEO,Georgia,2018.0,Privacy or security concerns,0.1951147710111899
+GEO,Georgia,2018.0,Internet service is not available in the area,0.4221612870218575
+GEO,Georgia,2018.0,Do not need the Internet,0.8862513632466907
+GEO,Georgia,2018.0,Have access to the Internet elsewhere,2.481595761141591
+GEO,Georgia,2018.0,Cost of service is too high,2.163427238604676
+GEO,Georgia,2018.0,Cost of the equipment is too high,2.899593518608038
+KAZ,Kazakhstan,2018.0,Do not need the Internet,71.70271972699076
+KAZ,Kazakhstan,2018.0,Internet service is not available in the area,4.559509476386774
+KAZ,Kazakhstan,2018.0,Cost of the equipment is too high,3.75084717382811
+KAZ,Kazakhstan,2018.0,Have access to the Internet elsewhere,2.9512745481075133
+KAZ,Kazakhstan,2018.0,Cost of service is too high,13.7801095545261
+KAZ,Kazakhstan,2018.0,Privacy or security concerns,0.1491025937472591
+KAZ,Kazakhstan,2018.0,other reason,3.108191074575217
+SAU,Saudi Arabia,2017.0,Cost of service is too high,30.341914976002016
+SAU,Saudi Arabia,2017.0,Internet service is available but it does not correspond to household needs,4.273411915846473
+SAU,Saudi Arabia,2017.0,Internet service is not available in the area,2.991418357331316
+SAU,Saudi Arabia,2017.0,Cost of the equipment is too high,15.384523026957584
+SAU,Saudi Arabia,2017.0,Do not need the Internet,84.18804573274141
+SAU,Saudi Arabia,2017.0,cultural reasons,4.700843156147476
+SAU,Saudi Arabia,2017.0,Privacy or security concerns,6.410267954963636
+AUT,Austria,2017.0,other reason,4.560746704959229
+AUT,Austria,2017.0,Privacy or security concerns,9.69818965075132
+AUT,Austria,2017.0,Do not need the Internet,80.80593876609056
+AUT,Austria,2017.0,Have access to the Internet elsewhere,12.125493615057184
+AUT,Austria,2017.0,Internet service is not available in the area,1.0449253807887584
+AUT,Austria,2017.0,Cost of the equipment is too high,9.84845376685984
+AUT,Austria,2017.0,Cost of service is too high,9.464844350992358
+AZE,Azerbaijan,2017.0,no electricity in the household,0.0
+AZE,Azerbaijan,2017.0,Internet service is not available in the area,0.8505727474782013
+AZE,Azerbaijan,2017.0,Internet service is available but it does not correspond to household needs,1.1275431697726106
+AZE,Azerbaijan,2017.0,Do not need the Internet,10.761668661309626
+AZE,Azerbaijan,2017.0,Cost of service is too high,7.457898786117285
+AZE,Azerbaijan,2017.0,Have access to the Internet elsewhere,12.50256454094717
+AZE,Azerbaijan,2017.0,Cost of the equipment is too high,38.135792443152674
+AZE,Azerbaijan,2017.0,Privacy or security concerns,4.648871601983244
+AZE,Azerbaijan,2017.0,other reason,0.4201572918447598
+AZE,Azerbaijan,2017.0,cultural reasons,1.938579244315268
+BRA,Brazil,2017.0,Privacy or security concerns,40.36682949726068
+BRA,Brazil,2017.0,cultural reasons,37.37335188638454
+BRA,Brazil,2017.0,other reason,41.47409005149867
+BRA,Brazil,2017.0,Have access to the Internet elsewhere,31.37780919767403
+BRA,Brazil,2017.0,Cost of service is too high,58.98360390111728
+BRA,Brazil,2017.0,Internet service is not available in the area,28.31003693052496
+BRA,Brazil,2017.0,Do not need the Internet,63.51083697472484
+BRA,Brazil,2017.0,Cost of the equipment is too high,41.68935462185901
+BEL,Belgium,2017.0,Privacy or security concerns,5.931901047250012
+BEL,Belgium,2017.0,Cost of the equipment is too high,20.5109692485928
+BEL,Belgium,2017.0,Do not need the Internet,35.27226060806248
+BEL,Belgium,2017.0,Internet service is not available in the area,0.1730697275054767
+BEL,Belgium,2017.0,Have access to the Internet elsewhere,10.67678979454282
+BEL,Belgium,2017.0,Cost of service is too high,16.053017549400483
+BHR,Bahrain,2017.0,other reason,60.01412928293889
+BHR,Bahrain,2017.0,cultural reasons,16.001412928293888
+BHR,Bahrain,2017.0,Internet service is not available in the area,3.991522430236665
+BHR,Bahrain,2017.0,Do not need the Internet,28.011303426351112
+BHR,Bahrain,2017.0,Have access to the Internet elsewhere,12.009890498057224
+BHR,Bahrain,2017.0,Cost of the equipment is too high,3.991522430236665
+BGR,Bulgaria,2017.0,Internet service is not available in the area,0.6608682860452716
+BGR,Bulgaria,2017.0,Cost of service is too high,21.92940195771963
+BGR,Bulgaria,2017.0,Do not need the Internet,48.17596185082348
+BGR,Bulgaria,2017.0,Have access to the Internet elsewhere,3.7590178303268793
+BGR,Bulgaria,2017.0,Cost of the equipment is too high,27.521835867826344
+BGR,Bulgaria,2017.0,Privacy or security concerns,0.7730356913005902
+BGR,Bulgaria,2017.0,other reason,6.909634751055783
+COL,Colombia,2017.0,Privacy or security concerns,0.105853300407128
+COL,Colombia,2017.0,other reason,1.5417473136221052
+COL,Colombia,2017.0,Do not need the Internet,30.194887539211106
+COL,Colombia,2017.0,Cost of service is too high,49.71581125275312
+COL,Colombia,2017.0,Internet service is not available in the area,4.472802509510779
+COL,Colombia,2017.0,Have access to the Internet elsewhere,2.104518454248148
+DNK,Denmark,2017.0,other reason,22.39606953892668
+DNK,Denmark,2017.0,Privacy or security concerns,1.582262534643487
+DNK,Denmark,2017.0,Have access to the Internet elsewhere,9.586797682035778
+DNK,Denmark,2017.0,Do not need the Internet,50.32501889644748
+DNK,Denmark,2017.0,Cost of service is too high,5.845301083396322
+DNK,Denmark,2017.0,Internet service is not available in the area,1.2988158226253463
+DNK,Denmark,2017.0,Cost of the equipment is too high,4.36130007558579
+ESP,Spain,2017.0,other reason,51.50070760641907
+ESP,Spain,2017.0,Privacy or security concerns,7.3929952489809505
+ESP,Spain,2017.0,Cost of service is too high,29.63902127092154
+ESP,Spain,2017.0,Internet service is not available in the area,4.139331792634852
+ESP,Spain,2017.0,Do not need the Internet,67.12333863516314
+ESP,Spain,2017.0,Cost of the equipment is too high,30.261759122081816
+ESP,Spain,2017.0,Have access to the Internet elsewhere,13.4049976683245
+EGY,Egypt,2017.0,other reason,1.0174021179397397
+EGY,Egypt,2017.0,Privacy or security concerns,0.3281803749655736
+EGY,Egypt,2017.0,cultural reasons,5.080335958633148
+EGY,Egypt,2017.0,Do not need the Internet,91.98250420592623
+EGY,Egypt,2017.0,Have access to the Internet elsewhere,0.6918899432639838
+EGY,Egypt,2017.0,Cost of the equipment is too high,19.33585273120451
+EGY,Egypt,2017.0,Cost of service is too high,17.063867793401666
+EGY,Egypt,2017.0,Internet service is not available in the area,0.5849058505289066
+EGY,Egypt,2017.0,Internet service is available but it does not correspond to household needs,0.6266140340065844
+EGY,Egypt,2017.0,no electricity in the household,0.0804838248411594
+ECU,Ecuador,2017.0,Internet service is not available in the area,5.315282942991712
+ECU,Ecuador,2017.0,Do not need the Internet,17.722510865956938
+ECU,Ecuador,2017.0,other reason,76.96220619105135
+EST,Estonia,2017.0,other reason,22.53521126760564
+EST,Estonia,2017.0,Have access to the Internet elsewhere,10.641627543035993
+EST,Estonia,2017.0,Do not need the Internet,66.66666666666666
+EST,Estonia,2017.0,Cost of service is too high,10.015649452269171
+EST,Estonia,2017.0,Cost of the equipment is too high,15.023474178403756
+HUN,Hungary,2017.0,Cost of the equipment is too high,55.783396132817465
+HUN,Hungary,2017.0,Internet service is not available in the area,4.794553057015603
+HUN,Hungary,2017.0,Do not need the Internet,69.58601334788874
+HUN,Hungary,2017.0,Cost of service is too high,49.26485561222225
+HUN,Hungary,2017.0,Have access to the Internet elsewhere,16.566049695546265
+HUN,Hungary,2017.0,Privacy or security concerns,24.56039085214893
+HUN,Hungary,2017.0,other reason,17.05048098637805
+HRV,Croatia,2017.0,other reason,15.9311013375143
+HRV,Croatia,2017.0,Privacy or security concerns,55.71209934573701
+HRV,Croatia,2017.0,Cost of the equipment is too high,8.021345369195714
+HRV,Croatia,2017.0,Do not need the Internet,100.0
+HRV,Croatia,2017.0,Internet service is not available in the area,25.367263160847703
+HRV,Croatia,2017.0,Cost of service is too high,52.18799385323189
+HRV,Croatia,2017.0,Have access to the Internet elsewhere,67.75128655098358
+ITA,Italy,2017.0,Privacy or security concerns,2.39674940230481
+ITA,Italy,2017.0,other reason,59.96512706146677
+ITA,Italy,2017.0,Internet service is not available in the area,2.91265618179683
+ITA,Italy,2017.0,Do not need the Internet,25.03744596370179
+ITA,Italy,2017.0,Cost of service is too high,10.257119718512708
+ITA,Italy,2017.0,Cost of the equipment is too high,9.736089046058536
+ITA,Italy,2017.0,Have access to the Internet elsewhere,8.545697924075538
+IRN,Iran (Islamic Republic of),2017.0,other reason,18.09199244585517
+IRN,Iran (Islamic Republic of),2017.0,cultural reasons,5.457375865703034
+IRN,Iran (Islamic Republic of),2017.0,Privacy or security concerns,5.947699237000437
+IRN,Iran (Islamic Republic of),2017.0,Internet service is not available in the area,6.743567480292921
+IRN,Iran (Islamic Republic of),2017.0,no electricity in the household,0.0
+IRN,Iran (Islamic Republic of),2017.0,Cost of service is too high,14.044980417108013
+IRN,Iran (Islamic Republic of),2017.0,Have access to the Internet elsewhere,1.6252149477834166
+IRN,Iran (Islamic Republic of),2017.0,Do not need the Internet,83.20416388175246
+IRN,Iran (Islamic Republic of),2017.0,Cost of the equipment is too high,13.226252824698689
+IRN,Iran (Islamic Republic of),2017.0,Internet service is available but it does not correspond to household needs,1.9534555691293785
+JAM,Jamaica,2017.0,other reason,3.0865019011406845
+JAM,Jamaica,2017.0,Privacy or security concerns,4.07153041825095
+JAM,Jamaica,2017.0,Have access to the Internet elsewhere,15.26069391634981
+JAM,Jamaica,2017.0,Cost of service is too high,41.0365969581749
+JAM,Jamaica,2017.0,Internet service is available but it does not correspond to household needs,3.7690114068441054
+JAM,Jamaica,2017.0,Do not need the Internet,42.039448669201526
+JAM,Jamaica,2017.0,Cost of the equipment is too high,24.894486692015207
+JAM,Jamaica,2017.0,Internet service is not available in the area,10.978849809885933
+KOR,Korea (Rep. of),2017.0,Privacy or security concerns,0.3732809430255402
+KOR,Korea (Rep. of),2017.0,other reason,0.0
+KOR,Korea (Rep. of),2017.0,cultural reasons,0.7424258091200496
+KOR,Korea (Rep. of),2017.0,Have access to the Internet elsewhere,0.0
+KOR,Korea (Rep. of),2017.0,Do not need the Internet,80.44979836624961
+KOR,Korea (Rep. of),2017.0,Cost of service is too high,21.779547099576053
+LTU,Lithuania,2017.0,Cost of the equipment is too high,23.750785534489687
+LTU,Lithuania,2017.0,Cost of service is too high,21.072585103862256
+LTU,Lithuania,2017.0,Have access to the Internet elsewhere,7.363935124294736
+LTU,Lithuania,2017.0,Do not need the Internet,62.21536179228922
+LTU,Lithuania,2017.0,Internet service is not available in the area,1.0339866004127705
+LTU,Lithuania,2017.0,other reason,44.97549819198291
+LTU,Lithuania,2017.0,Privacy or security concerns,1.4992977407512973
+LUX,Luxembourg,2017.0,Privacy or security concerns,13.451957295373663
+LUX,Luxembourg,2017.0,other reason,26.476868327402137
+LUX,Luxembourg,2017.0,Do not need the Internet,69.4306049822064
+LUX,Luxembourg,2017.0,Cost of the equipment is too high,4.483985765124555
+LUX,Luxembourg,2017.0,Internet service is not available in the area,7.686832740213523
+LUX,Luxembourg,2017.0,Have access to the Internet elsewhere,18.16725978647687
+LUX,Luxembourg,2017.0,Cost of service is too high,7.686832740213523
+LVA,Latvia,2017.0,Do not need the Internet,48.455251403895694
+LVA,Latvia,2017.0,Internet service is not available in the area,1.3294537007864289
+LVA,Latvia,2017.0,Cost of service is too high,18.043997998406137
+LVA,Latvia,2017.0,Cost of the equipment is too high,27.54477330713964
+LVA,Latvia,2017.0,Have access to the Internet elsewhere,12.56000148266212
+LVA,Latvia,2017.0,Privacy or security concerns,1.83170549388093
+MAC,"Macao, China",2017.0,other reason,60.352422907488986
+MAC,"Macao, China",2017.0,Cost of the equipment is too high,22.90748898678414
+MAC,"Macao, China",2017.0,Do not need the Internet,28.634361233480178
+MAC,"Macao, China",2017.0,Cost of service is too high,3.524229074889868
+MEX,Mexico,2017.0,Do not need the Internet,21.370546104955224
+MEX,Mexico,2017.0,Internet service is available but it does not correspond to household needs,0.7691222030379731
+MEX,Mexico,2017.0,Internet service is not available in the area,7.610853392412495
+MEX,Mexico,2017.0,Cost of service is too high,55.614055367618455
+MLT,Malta,2017.0,other reason,10.338667080938324
+MLT,Malta,2017.0,Privacy or security concerns,9.185179431412148
+MLT,Malta,2017.0,Cost of service is too high,13.286468851949666
+MLT,Malta,2017.0,Cost of the equipment is too high,9.014292372223084
+MLT,Malta,2017.0,Do not need the Internet,52.05841230386826
+MLT,Malta,2017.0,Internet service is not available in the area,2.376883641447879
+MLT,Malta,2017.0,Have access to the Internet elsewhere,5.0411682460773655
+MAR,Morocco,2017.0,Privacy or security concerns,6.38621202943482
+MAR,Morocco,2017.0,cultural reasons,5.593562294511044
+MAR,Morocco,2017.0,no electricity in the household,1.4187556400897043
+MAR,Morocco,2017.0,Cost of the equipment is too high,34.34775732769406
+MAR,Morocco,2017.0,Have access to the Internet elsewhere,24.08005527874032
+MAR,Morocco,2017.0,Do not need the Internet,70.00241695294274
+MAR,Morocco,2017.0,Cost of service is too high,34.67564448881445
+MAR,Morocco,2017.0,Internet service is not available in the area,7.074382899056195
+MAR,Morocco,2017.0,Internet service is available but it does not correspond to household needs,14.31705733634735
+NOR,Norway,2017.0,Do not need the Internet,52.405317739503865
+NOR,Norway,2017.0,Cost of service is too high,20.06944127187172
+NOR,Norway,2017.0,Have access to the Internet elsewhere,22.300394414241552
+NOR,Norway,2017.0,Internet service is not available in the area,10.035482053390592
+NOR,Norway,2017.0,Cost of the equipment is too high,20.070964106781183
+POL,Poland,2017.0,Privacy or security concerns,3.612693033331004
+POL,Poland,2017.0,Internet service is available but it does not correspond to household needs,1.8393194046537629
+POL,Poland,2017.0,Do not need the Internet,67.48467088253791
+POL,Poland,2017.0,Cost of service is too high,18.66575536300748
+POL,Poland,2017.0,Have access to the Internet elsewhere,2.702204597861785
+POL,Poland,2017.0,Cost of the equipment is too high,26.82005974425267
+POL,Poland,2017.0,Internet service is not available in the area,0.7080654741108239
+PRT,Portugal,2017.0,Do not need the Internet,46.266512056042366
+PRT,Portugal,2017.0,Cost of the equipment is too high,34.81237522563986
+PRT,Portugal,2017.0,Have access to the Internet elsewhere,9.24651229513096
+PRT,Portugal,2017.0,Cost of service is too high,32.96015588576347
+PRT,Portugal,2017.0,Internet service is not available in the area,4.223978195120202
+PRT,Portugal,2017.0,other reason,75.12510310695629
+PRT,Portugal,2017.0,Privacy or security concerns,16.540148952194237
+QAT,Qatar,2017.0,other reason,9.74848075624578
+QAT,Qatar,2017.0,cultural reasons,2.067859554355165
+QAT,Qatar,2017.0,Privacy or security concerns,0.8777852802160702
+QAT,Qatar,2017.0,Internet service is available but it does not correspond to household needs,5.275151924375423
+QAT,Qatar,2017.0,Internet service is not available in the area,2.135381498987171
+QAT,Qatar,2017.0,Have access to the Internet elsewhere,25.94530722484808
+QAT,Qatar,2017.0,no electricity in the household,0.0
+QAT,Qatar,2017.0,Cost of service is too high,37.12862930452397
+QAT,Qatar,2017.0,Do not need the Internet,18.37440918298447
+QAT,Qatar,2017.0,Cost of the equipment is too high,27.194463200540177
+RUS,Russian Federation,2017.0,Internet service is not available in the area,6.187593494140082
+RUS,Russian Federation,2017.0,Cost of service is too high,18.078616914779023
+RUS,Russian Federation,2017.0,Do not need the Internet,70.26104134867556
+RUS,Russian Federation,2017.0,Have access to the Internet elsewhere,7.2616694009142915
+RUS,Russian Federation,2017.0,Privacy or security concerns,0.7595854093949003
+RUS,Russian Federation,2017.0,other reason,10.437535446887717
+SGP,Singapore,2017.0,Privacy or security concerns,0.2448979591836734
+SGP,Singapore,2017.0,other reason,19.346938775510203
+SGP,Singapore,2017.0,cultural reasons,0.0
+SGP,Singapore,2017.0,Internet service is available but it does not correspond to household needs,0.0
+SGP,Singapore,2017.0,Cost of the equipment is too high,5.224489795918368
+SGP,Singapore,2017.0,Do not need the Internet,63.755102040816325
+SGP,Singapore,2017.0,Cost of service is too high,2.7755102040816326
+SGP,Singapore,2017.0,no electricity in the household,0.0
+SGP,Singapore,2017.0,Internet service is not available in the area,0.0
+SGP,Singapore,2017.0,Have access to the Internet elsewhere,8.653061224489795
+CHE,Switzerland,2017.0,Internet service is not available in the area,14.427645577289038
+CHE,Switzerland,2017.0,Cost of service is too high,28.050850977029608
+CHE,Switzerland,2017.0,Cost of the equipment is too high,31.48211934442889
+CHE,Switzerland,2017.0,Do not need the Internet,74.32167347008573
+CHE,Switzerland,2017.0,Have access to the Internet elsewhere,24.96256287360786
+CHE,Switzerland,2017.0,Privacy or security concerns,32.731163567874184
+SVN,Slovenia,2017.0,Cost of the equipment is too high,10.76734979908601
+SVN,Slovenia,2017.0,Do not need the Internet,64.76065515107689
+SVN,Slovenia,2017.0,Cost of service is too high,14.075907467738208
+SVN,Slovenia,2017.0,Have access to the Internet elsewhere,4.428308371292037
+SVN,Slovenia,2017.0,Internet service is available but it does not correspond to household needs,3.949693224091787
+SVN,Slovenia,2017.0,other reason,20.00715686201421
+SVN,Slovenia,2017.0,Privacy or security concerns,3.005136539508115
+CZE,Czech Republic,2017.0,Cost of service is too high,11.434371582842395
+CZE,Czech Republic,2017.0,Internet service is available but it does not correspond to household needs,0.091257474017108
+CZE,Czech Republic,2017.0,Cost of the equipment is too high,18.30437016350381
+CZE,Czech Republic,2017.0,Do not need the Internet,79.92565464493546
+CZE,Czech Republic,2017.0,Have access to the Internet elsewhere,6.919275617562216
+CZE,Czech Republic,2017.0,Privacy or security concerns,4.668624421019805
+THA,Thailand,2017.0,other reason,33.31608186539262
+THA,Thailand,2017.0,Privacy or security concerns,0.5485236031922263
+THA,Thailand,2017.0,Internet service is not available in the area,0.5062823008290622
+THA,Thailand,2017.0,Do not need the Internet,59.3268325835078
+THA,Thailand,2017.0,Have access to the Internet elsewhere,4.2628090192031545
+THA,Thailand,2017.0,Internet service is available but it does not correspond to household needs,0.1295948019056478
+THA,Thailand,2017.0,Cost of the equipment is too high,5.82474544297646
+TUR,Türkiye,2017.0,Cost of the equipment is too high,24.31550872408579
+TUR,Türkiye,2017.0,Do not need the Internet,58.43752023431816
+TUR,Türkiye,2017.0,Have access to the Internet elsewhere,8.41757157711513
+TUR,Türkiye,2017.0,Cost of service is too high,25.96686713718201
+TUR,Türkiye,2017.0,Internet service is not available in the area,5.516398843644424
+TUR,Türkiye,2017.0,Privacy or security concerns,7.731342530346716
+TUR,Türkiye,2017.0,other reason,0.8527693878095136
+SRB,Serbia,2017.0,Privacy or security concerns,0.659271033802294
+SRB,Serbia,2017.0,other reason,3.116883841858687
+SRB,Serbia,2017.0,Have access to the Internet elsewhere,7.007615668991235
+SRB,Serbia,2017.0,Cost of the equipment is too high,23.87108208929187
+SRB,Serbia,2017.0,Internet service is not available in the area,1.5266227431759725
+SRB,Serbia,2017.0,Cost of service is too high,21.49636661275084
+SRB,Serbia,2017.0,Do not need the Internet,68.46831130878698
+BIH,Bosnia and Herzegovina,2017.0,Do not need the Internet,50.10023114870567
+BIH,Bosnia and Herzegovina,2017.0,Cost of the equipment is too high,26.91464842381933
+BIH,Bosnia and Herzegovina,2017.0,Internet service is not available in the area,2.0483177510865325
+BIH,Bosnia and Herzegovina,2017.0,Have access to the Internet elsewhere,3.8191236362059593
+BIH,Bosnia and Herzegovina,2017.0,Cost of service is too high,24.664534183658155
+BIH,Bosnia and Herzegovina,2017.0,Privacy or security concerns,0.6467494087863193
+BIH,Bosnia and Herzegovina,2017.0,other reason,47.13065405410815
+GEO,Georgia,2017.0,Have access to the Internet elsewhere,3.433719401332469
+GEO,Georgia,2017.0,Internet service is not available in the area,0.0
+GEO,Georgia,2017.0,Cost of the equipment is too high,3.339351883890206
+GEO,Georgia,2017.0,Do not need the Internet,1.1663825155863683
+GEO,Georgia,2017.0,Cost of service is too high,4.555120066938026
+GEO,Georgia,2017.0,Privacy or security concerns,0.2428390782180896
+GEO,Georgia,2017.0,other reason,0.6734695161462823
+KAZ,Kazakhstan,2017.0,Privacy or security concerns,0.0292241838716886
+KAZ,Kazakhstan,2017.0,other reason,2.0730657491242663
+KAZ,Kazakhstan,2017.0,Do not need the Internet,73.34370946136258
+KAZ,Kazakhstan,2017.0,Internet service is not available in the area,5.451566535268036
+KAZ,Kazakhstan,2017.0,Cost of the equipment is too high,4.072211503749555
+KAZ,Kazakhstan,2017.0,Cost of service is too high,12.493008014831604
+MKD,North Macedonia,2017.0,other reason,10.393774998850628
+MKD,North Macedonia,2017.0,Privacy or security concerns,32.845616293503745
+MKD,North Macedonia,2017.0,Cost of the equipment is too high,22.91101558549032
+MKD,North Macedonia,2017.0,Do not need the Internet,40.04988276401085
+MKD,North Macedonia,2017.0,Have access to the Internet elsewhere,2.7630913521217417
+MKD,North Macedonia,2017.0,Cost of service is too high,23.7839639556802
+MNE,Montenegro,2017.0,Internet service is not available in the area,5.651984817333544
+MNE,Montenegro,2017.0,Do not need the Internet,52.19436976118931
+MNE,Montenegro,2017.0,Cost of the equipment is too high,38.77510675312352
+MNE,Montenegro,2017.0,Cost of service is too high,40.85283884232168
+MNE,Montenegro,2017.0,Have access to the Internet elsewhere,18.17768464336549
+MNE,Montenegro,2017.0,other reason,8.154752490906215
+MNE,Montenegro,2017.0,Privacy or security concerns,19.33022299541357
+ZAF,South Africa,2016.0,cultural reasons,0.3079965918138171
+ZAF,South Africa,2016.0,Have access to the Internet elsewhere,3.0634680741458893
+ZAF,South Africa,2016.0,Cost of the equipment is too high,26.8845234593816
+ZAF,South Africa,2016.0,Do not need the Internet,42.182697913741066
+ARM,Armenia,2016.0,other reason,39.762582067662144
+ARM,Armenia,2016.0,Cost of service is too high,60.252674889017946
+SAU,Saudi Arabia,2016.0,Internet service is not available in the area,8.421822378752939
+SAU,Saudi Arabia,2016.0,Cost of service is too high,9.4744400466068
+SAU,Saudi Arabia,2016.0,other reason,13.685351235983273
+AUT,Austria,2016.0,Privacy or security concerns,5.2034038579886674
+AUT,Austria,2016.0,other reason,3.378006879481743
+AUT,Austria,2016.0,Cost of service is too high,12.61669171394783
+AUT,Austria,2016.0,Internet service is not available in the area,2.125578515027404
+AUT,Austria,2016.0,Do not need the Internet,78.70177273016651
+AUT,Austria,2016.0,Cost of the equipment is too high,11.450690938414557
+AUT,Austria,2016.0,Have access to the Internet elsewhere,11.68855972667275
+BRA,Brazil,2016.0,other reason,38.65635440072327
+BRA,Brazil,2016.0,Privacy or security concerns,39.57750105102255
+BRA,Brazil,2016.0,cultural reasons,36.74887920689634
+BRA,Brazil,2016.0,Have access to the Internet elsewhere,30.011802320004733
+BRA,Brazil,2016.0,Do not need the Internet,64.16420301367963
+BRA,Brazil,2016.0,Internet service is not available in the area,26.975935154969704
+BRA,Brazil,2016.0,Cost of service is too high,56.909318947589696
+BRA,Brazil,2016.0,Cost of the equipment is too high,43.485987981608126
+BEL,Belgium,2016.0,Privacy or security concerns,7.988512964312848
+BEL,Belgium,2016.0,Cost of service is too high,20.122052303236167
+BEL,Belgium,2016.0,Internet service is not available in the area,0.6119394013889642
+BEL,Belgium,2016.0,Do not need the Internet,41.83719397668838
+BEL,Belgium,2016.0,Cost of the equipment is too high,24.68349076176733
+BEL,Belgium,2016.0,Have access to the Internet elsewhere,10.973206914322574
+BHR,Bahrain,2016.0,Privacy or security concerns,40.10445299615173
+BHR,Bahrain,2016.0,cultural reasons,3.0786146234194613
+BHR,Bahrain,2016.0,Internet service is available but it does not correspond to household needs,6.157229246838923
+BHR,Bahrain,2016.0,Cost of service is too high,6.157229246838923
+BHR,Bahrain,2016.0,Cost of the equipment is too high,12.341946124244089
+BHR,Bahrain,2016.0,Have access to the Internet elsewhere,6.157229246838923
+BHR,Bahrain,2016.0,Internet service is not available in the area,52.418911489829576
+BRN,Brunei Darussalam,2016.0,Internet service is not available in the area,75.99841611041973
+BRN,Brunei Darussalam,2016.0,Do not need the Internet,32.00022626994004
+BRN,Brunei Darussalam,2016.0,Privacy or security concerns,20.002262699400383
+BRN,Brunei Darussalam,2016.0,other reason,75.99841611041973
+BRN,Brunei Darussalam,2016.0,cultural reasons,20.002262699400383
+BGR,Bulgaria,2016.0,Cost of service is too high,25.226681303280547
+BGR,Bulgaria,2016.0,Cost of the equipment is too high,32.100502338133985
+BGR,Bulgaria,2016.0,Have access to the Internet elsewhere,4.227298514246292
+BGR,Bulgaria,2016.0,Internet service is not available in the area,1.0615160827388113
+BGR,Bulgaria,2016.0,Do not need the Internet,42.46867030629501
+BGR,Bulgaria,2016.0,Privacy or security concerns,0.714619655945564
+BGR,Bulgaria,2016.0,other reason,7.34784773438017
+COL,Colombia,2016.0,other reason,1.7026811262932626
+COL,Colombia,2016.0,Privacy or security concerns,0.1978529503591579
+COL,Colombia,2016.0,Internet service is not available in the area,4.706213184863452
+COL,Colombia,2016.0,Have access to the Internet elsewhere,2.074323657928108
+COL,Colombia,2016.0,Cost of service is too high,46.29937663625488
+COL,Colombia,2016.0,Do not need the Internet,33.69639760136949
+CYP,Cyprus,2016.0,Have access to the Internet elsewhere,16.45026678552511
+CYP,Cyprus,2016.0,Cost of service is too high,25.458961538958437
+CYP,Cyprus,2016.0,Do not need the Internet,59.88656770409415
+CYP,Cyprus,2016.0,Internet service is not available in the area,2.360373628929111
+CYP,Cyprus,2016.0,Cost of the equipment is too high,25.47058899525858
+CYP,Cyprus,2016.0,other reason,12.380657080474917
+CYP,Cyprus,2016.0,Privacy or security concerns,5.183261630686149
+ESP,Spain,2016.0,Privacy or security concerns,3.257431983058724
+ESP,Spain,2016.0,other reason,50.09565643270378
+ESP,Spain,2016.0,Have access to the Internet elsewhere,10.375418453412882
+ESP,Spain,2016.0,Internet service is not available in the area,2.2723446469964577
+ESP,Spain,2016.0,Cost of the equipment is too high,25.55223328203829
+ESP,Spain,2016.0,Do not need the Internet,67.36814717316109
+ESP,Spain,2016.0,Cost of service is too high,20.726731485784413
+EGY,Egypt,2016.0,no electricity in the household,0.2275370400426721
+EGY,Egypt,2016.0,Cost of service is too high,15.474736799802846
+EGY,Egypt,2016.0,Do not need the Internet,93.991974490315
+EGY,Egypt,2016.0,Internet service is not available in the area,1.5747363823787786
+EGY,Egypt,2016.0,Cost of the equipment is too high,16.40186020533499
+EGY,Egypt,2016.0,Internet service is available but it does not correspond to household needs,1.0732709374386908
+EGY,Egypt,2016.0,Have access to the Internet elsewhere,0.165275375884233
+EGY,Egypt,2016.0,cultural reasons,4.629781275518627
+EGY,Egypt,2016.0,Privacy or security concerns,0.9907273745311242
+EGY,Egypt,2016.0,other reason,0.1592104497449661
+EST,Estonia,2016.0,other reason,36.41160949868074
+EST,Estonia,2016.0,Have access to the Internet elsewhere,14.775725593667548
+EST,Estonia,2016.0,Do not need the Internet,70.84432717678101
+EST,Estonia,2016.0,Cost of service is too high,15.303430079155673
+EST,Estonia,2016.0,Cost of the equipment is too high,18.3377308707124
+HKG,"Hong Kong, China",2016.0,Have access to the Internet elsewhere,1.2837969266679634
+HKG,"Hong Kong, China",2016.0,Do not need the Internet,0.6029955261622253
+HKG,"Hong Kong, China",2016.0,Cost of service is too high,0.99202489787979
+HRV,Croatia,2016.0,Internet service is not available in the area,15.007858265466496
+HRV,Croatia,2016.0,Cost of the equipment is too high,47.69665507770952
+HRV,Croatia,2016.0,Have access to the Internet elsewhere,12.20872823101713
+HRV,Croatia,2016.0,Cost of service is too high,50.58341667857314
+HRV,Croatia,2016.0,Do not need the Internet,52.63609087012431
+HRV,Croatia,2016.0,other reason,12.276039434204886
+HRV,Croatia,2016.0,Privacy or security concerns,11.656903367147688
+JAM,Jamaica,2016.0,Internet service is not available in the area,9.665152929517504
+JAM,Jamaica,2016.0,Have access to the Internet elsewhere,9.522068580272917
+JAM,Jamaica,2016.0,Cost of the equipment is too high,36.44122685086379
+JAM,Jamaica,2016.0,Do not need the Internet,44.76702861501402
+KOR,Korea (Rep. of),2016.0,cultural reasons,0.0
+KOR,Korea (Rep. of),2016.0,Privacy or security concerns,0.1790884788590626
+KOR,Korea (Rep. of),2016.0,other reason,0.0
+KOR,Korea (Rep. of),2016.0,Cost of service is too high,19.70300071243227
+KOR,Korea (Rep. of),2016.0,Have access to the Internet elsewhere,1.1104792904436036
+KOR,Korea (Rep. of),2016.0,Do not need the Internet,91.8978803505951
+LSO,Lesotho,2016.0,Internet service is not available in the area,5.87859104184599
+LSO,Lesotho,2016.0,Cost of the equipment is too high,19.12210611246308
+LSO,Lesotho,2016.0,Have access to the Internet elsewhere,14.90478731216339
+LSO,Lesotho,2016.0,Do not need the Internet,13.448757299205615
+LSO,Lesotho,2016.0,Cost of service is too high,5.187385782885698
+LSO,Lesotho,2016.0,other reason,30.99008925434234
+LTU,Lithuania,2016.0,Privacy or security concerns,2.5970196781441097
+LTU,Lithuania,2016.0,other reason,45.204594908567685
+LTU,Lithuania,2016.0,Have access to the Internet elsewhere,7.995683427782921
+LTU,Lithuania,2016.0,Do not need the Internet,59.79720366318942
+LTU,Lithuania,2016.0,Cost of the equipment is too high,27.98666108421444
+LTU,Lithuania,2016.0,Internet service is not available in the area,0.8084727472151623
+LTU,Lithuania,2016.0,Cost of service is too high,27.402272687066205
+LUX,Luxembourg,2016.0,Cost of the equipment is too high,0.0
+LUX,Luxembourg,2016.0,Cost of service is too high,5.644355644355644
+LUX,Luxembourg,2016.0,Internet service is not available in the area,0.0
+LUX,Luxembourg,2016.0,Have access to the Internet elsewhere,19.497169497169494
+LUX,Luxembourg,2016.0,Do not need the Internet,39.14418914418915
+LUX,Luxembourg,2016.0,other reason,16.6999666999667
+LUX,Luxembourg,2016.0,Privacy or security concerns,5.1448551448551445
+LVA,Latvia,2016.0,Privacy or security concerns,0.8559913654526248
+LVA,Latvia,2016.0,Cost of the equipment is too high,23.573347724245625
+LVA,Latvia,2016.0,Do not need the Internet,50.36340880907546
+LVA,Latvia,2016.0,Have access to the Internet elsewhere,11.859872318927112
+LVA,Latvia,2016.0,Cost of service is too high,15.60074404078446
+MAC,"Macao, China",2016.0,other reason,55.0925925925926
+MAC,"Macao, China",2016.0,Do not need the Internet,39.81481481481482
+MAC,"Macao, China",2016.0,Cost of the equipment is too high,31.48148148148148
+MAC,"Macao, China",2016.0,Cost of service is too high,4.62962962962963
+MEX,Mexico,2016.0,other reason,4.497095979595775
+MEX,Mexico,2016.0,Cost of service is too high,53.8656922086905
+MEX,Mexico,2016.0,Internet service is not available in the area,8.13041271744733
+MEX,Mexico,2016.0,Do not need the Internet,19.285693438475203
+MEX,Mexico,2016.0,Internet service is available but it does not correspond to household needs,0.5866016373138214
+MLT,Malta,2016.0,other reason,8.220176193945818
+MLT,Malta,2016.0,Privacy or security concerns,4.242564747963171
+MLT,Malta,2016.0,Have access to the Internet elsewhere,6.362191163807379
+MLT,Malta,2016.0,Internet service is not available in the area,0.9041531430085448
+MLT,Malta,2016.0,Cost of service is too high,15.638868649400544
+MLT,Malta,2016.0,Do not need the Internet,50.68556666887461
+MLT,Malta,2016.0,Cost of the equipment is too high,11.82354110088097
+MAR,Morocco,2016.0,other reason,7.693865802434916
+MAR,Morocco,2016.0,cultural reasons,2.6025457879362914
+MAR,Morocco,2016.0,Privacy or security concerns,2.7999829427943967
+MAR,Morocco,2016.0,Internet service is not available in the area,6.752947698343319
+MAR,Morocco,2016.0,Internet service is available but it does not correspond to household needs,0.7748662075435492
+MAR,Morocco,2016.0,Cost of the equipment is too high,23.72000597002196
+MAR,Morocco,2016.0,Have access to the Internet elsewhere,8.071512334491802
+MAR,Morocco,2016.0,Do not need the Internet,67.70239440523656
+MAR,Morocco,2016.0,Cost of service is too high,26.24690305110765
+OMN,Oman,2016.0,Privacy or security concerns,0.5863834731736317
+OMN,Oman,2016.0,cultural reasons,2.4495696701930743
+OMN,Oman,2016.0,other reason,57.31155337575832
+OMN,Oman,2016.0,no electricity in the household,0.4526231878183562
+OMN,Oman,2016.0,Have access to the Internet elsewhere,1.2903138637806872
+OMN,Oman,2016.0,Internet service is available but it does not correspond to household needs,11.589855836136897
+OMN,Oman,2016.0,Do not need the Internet,0.709334846581006
+OMN,Oman,2016.0,Cost of the equipment is too high,3.006228635509978
+OMN,Oman,2016.0,Cost of service is too high,14.486644238174376
+OMN,Oman,2016.0,Internet service is not available in the area,10.250901868590653
+POL,Poland,2016.0,Cost of the equipment is too high,27.86367646939783
+POL,Poland,2016.0,Do not need the Internet,70.13987712183395
+POL,Poland,2016.0,Have access to the Internet elsewhere,3.5466702283526392
+POL,Poland,2016.0,Internet service is not available in the area,0.769486064903632
+POL,Poland,2016.0,Cost of service is too high,21.13536835118224
+POL,Poland,2016.0,Privacy or security concerns,3.893691768458033
+QAT,Qatar,2016.0,no electricity in the household,0.0
+QAT,Qatar,2016.0,Have access to the Internet elsewhere,30.68640646029609
+QAT,Qatar,2016.0,Internet service is not available in the area,1.201691982311094
+QAT,Qatar,2016.0,Do not need the Internet,29.18669486637185
+QAT,Qatar,2016.0,Cost of the equipment is too high,19.5731590078831
+QAT,Qatar,2016.0,Internet service is available but it does not correspond to household needs,7.479330897904249
+QAT,Qatar,2016.0,Cost of service is too high,26.80253797346664
+QAT,Qatar,2016.0,Privacy or security concerns,0.4902903287829264
+QAT,Qatar,2016.0,cultural reasons,1.7304364545279751
+QAT,Qatar,2016.0,other reason,5.498942511055566
+RUS,Russian Federation,2016.0,Privacy or security concerns,0.543764502896984
+RUS,Russian Federation,2016.0,other reason,8.6692648664823
+RUS,Russian Federation,2016.0,Do not need the Internet,69.64900833831386
+RUS,Russian Federation,2016.0,Cost of service is too high,17.050487736660482
+RUS,Russian Federation,2016.0,Have access to the Internet elsewhere,7.742782368197908
+RUS,Russian Federation,2016.0,Internet service is not available in the area,6.694584829072686
+SVN,Slovenia,2016.0,Do not need the Internet,65.43620931888604
+SVN,Slovenia,2016.0,Have access to the Internet elsewhere,6.590452728754082
+SVN,Slovenia,2016.0,Cost of service is too high,18.0032974717245
+SVN,Slovenia,2016.0,Cost of the equipment is too high,18.968802324910023
+SVN,Slovenia,2016.0,Internet service is available but it does not correspond to household needs,4.101310648780769
+SVN,Slovenia,2016.0,Privacy or security concerns,6.10224728471808
+SVN,Slovenia,2016.0,other reason,13.086600332313298
+CZE,Czech Republic,2016.0,Do not need the Internet,75.96143015284224
+CZE,Czech Republic,2016.0,Have access to the Internet elsewhere,6.707579965430852
+CZE,Czech Republic,2016.0,Cost of the equipment is too high,23.17744848614321
+CZE,Czech Republic,2016.0,Cost of service is too high,14.444757336233517
+CZE,Czech Republic,2016.0,other reason,47.00093220174399
+CZE,Czech Republic,2016.0,Privacy or security concerns,4.5674972325260725
+THA,Thailand,2016.0,Privacy or security concerns,0.4943022002920765
+THA,Thailand,2016.0,Do not need the Internet,61.87318639239795
+THA,Thailand,2016.0,Cost of the equipment is too high,5.474518343457822
+THA,Thailand,2016.0,Have access to the Internet elsewhere,5.729622138064136
+THA,Thailand,2016.0,Internet service is available but it does not correspond to household needs,0.1039501645129915
+THA,Thailand,2016.0,Internet service is not available in the area,0.5451644879391125
+TUR,Türkiye,2016.0,Privacy or security concerns,4.189372828379005
+TUR,Türkiye,2016.0,other reason,0.6761947965842302
+TUR,Türkiye,2016.0,Have access to the Internet elsewhere,29.064531727476208
+TUR,Türkiye,2016.0,Cost of service is too high,28.22769804435715
+TUR,Türkiye,2016.0,Cost of the equipment is too high,27.427733936859106
+TUR,Türkiye,2016.0,Do not need the Internet,58.23977188320979
+TUR,Türkiye,2016.0,Internet service is not available in the area,4.219143664724151
+ARE,United Arab Emirates,2016.0,other reason,62.86679567300067
+ARE,United Arab Emirates,2016.0,Privacy or security concerns,71.13853376899407
+ARE,United Arab Emirates,2016.0,cultural reasons,16.5434761919868
+ARE,United Arab Emirates,2016.0,Internet service is not available in the area,47.97766710021254
+ARE,United Arab Emirates,2016.0,Internet service is available but it does not correspond to household needs,41.35869047996701
+SRB,Serbia,2016.0,other reason,2.2133971484102317
+SRB,Serbia,2016.0,Privacy or security concerns,1.6799168328168868
+SRB,Serbia,2016.0,Have access to the Internet elsewhere,3.324804009702838
+SRB,Serbia,2016.0,Internet service is not available in the area,5.49614046013148
+SRB,Serbia,2016.0,Cost of the equipment is too high,28.47634807675889
+SRB,Serbia,2016.0,Do not need the Internet,59.05912101930021
+SRB,Serbia,2016.0,Cost of service is too high,26.87578157565652
+BIH,Bosnia and Herzegovina,2016.0,other reason,9.345178284127805
+BIH,Bosnia and Herzegovina,2016.0,Privacy or security concerns,1.1055997304973602
+BIH,Bosnia and Herzegovina,2016.0,Cost of service is too high,6.203207313744054
+BIH,Bosnia and Herzegovina,2016.0,Internet service is not available in the area,1.148290342628464
+BIH,Bosnia and Herzegovina,2016.0,Have access to the Internet elsewhere,0.6484907271343854
+BIH,Bosnia and Herzegovina,2016.0,Do not need the Internet,45.53839541380852
+BIH,Bosnia and Herzegovina,2016.0,Cost of the equipment is too high,16.15389530054772
+GEO,Georgia,2016.0,Cost of service is too high,5.906662634815039
+GEO,Georgia,2016.0,Have access to the Internet elsewhere,5.992024493498639
+GEO,Georgia,2016.0,Internet service is not available in the area,0.1565492389880052
+GEO,Georgia,2016.0,Do not need the Internet,0.772666565870376
+GEO,Georgia,2016.0,Cost of the equipment is too high,6.251574942042133
+GEO,Georgia,2016.0,other reason,0.7077789537345025
+GEO,Georgia,2016.0,Privacy or security concerns,0.0
+KAZ,Kazakhstan,2016.0,Cost of service is too high,8.351583970953198
+KAZ,Kazakhstan,2016.0,Do not need the Internet,80.82677274247365
+KAZ,Kazakhstan,2016.0,Cost of the equipment is too high,3.07805070618024
+KAZ,Kazakhstan,2016.0,Internet service is not available in the area,5.227141862143359
+KAZ,Kazakhstan,2016.0,other reason,0.8479946090424262
+KAZ,Kazakhstan,2016.0,Privacy or security concerns,0.1122697088028
+MNE,Montenegro,2016.0,Internet service is not available in the area,7.186854388246997
+MNE,Montenegro,2016.0,Cost of service is too high,30.953018593618488
+MNE,Montenegro,2016.0,Cost of the equipment is too high,31.104139566914075
+MNE,Montenegro,2016.0,Have access to the Internet elsewhere,18.532404927691484
+MNE,Montenegro,2016.0,Do not need the Internet,53.16971459178208
+MNE,Montenegro,2016.0,Privacy or security concerns,18.57066340194353
+MNE,Montenegro,2016.0,other reason,18.061825694391302
+ZAF,South Africa,2015.0,Internet service is not available in the area,0.349317676550325
+ZAF,South Africa,2015.0,Do not need the Internet,22.008699351291963
+AUS,Australia,2015.0,Cost of the equipment is too high,15.761579839854504
+AUS,Australia,2015.0,Do not need the Internet,62.48745267725152
+AUS,Australia,2015.0,Privacy or security concerns,3.372482302819567
+AUS,Australia,2015.0,other reason,10.541179420565626
+BHR,Bahrain,2015.0,Privacy or security concerns,1.4799154334038054
+BHR,Bahrain,2015.0,cultural reasons,3.7048223094734727
+BHR,Bahrain,2015.0,other reason,15.554213228631832
+BHR,Bahrain,2015.0,Cost of service is too high,22.96385784757878
+BHR,Bahrain,2015.0,Cost of the equipment is too high,8.88956005235075
+BHR,Bahrain,2015.0,Have access to the Internet elsewhere,45.92771569515756
+BHR,Bahrain,2015.0,Internet service is available but it does not correspond to household needs,1.4799154334038054
+COL,Colombia,2015.0,Cost of service is too high,44.54568462754844
+COL,Colombia,2015.0,Do not need the Internet,32.43739122265281
+COL,Colombia,2015.0,Have access to the Internet elsewhere,2.056124145606982
+COL,Colombia,2015.0,Internet service is not available in the area,3.3490171334945944
+COL,Colombia,2015.0,other reason,2.081494102825338
+COL,Colombia,2015.0,Privacy or security concerns,0.2428545856685087
+EGY,Egypt,2015.0,no electricity in the household,0.0471323207424084
+EGY,Egypt,2015.0,Internet service is not available in the area,1.3888068173591264
+EGY,Egypt,2015.0,Internet service is available but it does not correspond to household needs,1.420544040974282
+EGY,Egypt,2015.0,Have access to the Internet elsewhere,0.7292439144558553
+EGY,Egypt,2015.0,Cost of the equipment is too high,11.593416032737474
+EGY,Egypt,2015.0,Cost of service is too high,12.21346980991712
+EGY,Egypt,2015.0,Do not need the Internet,91.0903947351429
+EGY,Egypt,2015.0,other reason,1.0025910253706034
+EGY,Egypt,2015.0,Privacy or security concerns,1.4737420456382058
+EGY,Egypt,2015.0,cultural reasons,3.793971805918464
+IRN,Iran (Islamic Republic of),2015.0,Do not need the Internet,64.15048757858955
+IRN,Iran (Islamic Republic of),2015.0,Internet service is not available in the area,5.985108452171304
+IRN,Iran (Islamic Republic of),2015.0,Cost of the equipment is too high,13.588720627705497
+IRN,Iran (Islamic Republic of),2015.0,Internet service is available but it does not correspond to household needs,1.247095502808906
+IRN,Iran (Islamic Republic of),2015.0,Cost of service is too high,12.036657084241291
+IRN,Iran (Islamic Republic of),2015.0,no electricity in the household,0.0
+IRN,Iran (Islamic Republic of),2015.0,Have access to the Internet elsewhere,4.945329155407293
+IRN,Iran (Islamic Republic of),2015.0,Privacy or security concerns,4.201332401647831
+IRN,Iran (Islamic Republic of),2015.0,cultural reasons,3.869769251732228
+IRN,Iran (Islamic Republic of),2015.0,other reason,8.732343260429037
+JAM,Jamaica,2015.0,Cost of the equipment is too high,30.651000012026604
+JAM,Jamaica,2015.0,Internet service is not available in the area,10.799202120805507
+JAM,Jamaica,2015.0,Do not need the Internet,57.85775277771573
+JAM,Jamaica,2015.0,Have access to the Internet elsewhere,13.473403167807191
+JAM,Jamaica,2015.0,Privacy or security concerns,1.5304711163951803
+KEN,Kenya,2015.0,Do not need the Internet,50.448577316555166
+KEN,Kenya,2015.0,Cost of the equipment is too high,3.724124700191822
+KEN,Kenya,2015.0,Internet service is not available in the area,3.2134659238569148
+KEN,Kenya,2015.0,Have access to the Internet elsewhere,2.3254033981720235
+KEN,Kenya,2015.0,Cost of service is too high,8.23837479642809
+KEN,Kenya,2015.0,Internet service is available but it does not correspond to household needs,0.2282781799676986
+KEN,Kenya,2015.0,cultural reasons,0.1492506327581501
+KEN,Kenya,2015.0,other reason,30.55181963459984
+KOR,Korea (Rep. of),2015.0,Do not need the Internet,89.46500347113212
+KOR,Korea (Rep. of),2015.0,Cost of service is too high,19.985319543137106
+KOR,Korea (Rep. of),2015.0,Have access to the Internet elsewhere,0.0
+KOR,Korea (Rep. of),2015.0,other reason,0.145478021322037
+KOR,Korea (Rep. of),2015.0,cultural reasons,0.0
+KOR,Korea (Rep. of),2015.0,Privacy or security concerns,1.2045049546541913
+MAC,"Macao, China",2015.0,Cost of service is too high,4.166666666666666
+MAC,"Macao, China",2015.0,Cost of the equipment is too high,24.24242424242424
+MAC,"Macao, China",2015.0,Do not need the Internet,39.39393939393939
+MAC,"Macao, China",2015.0,other reason,53.03030303030303
+MEX,Mexico,2015.0,Do not need the Internet,24.67256465942903
+MEX,Mexico,2015.0,Internet service is available but it does not correspond to household needs,1.3975535672551789
+MEX,Mexico,2015.0,Internet service is not available in the area,8.730843121866688
+MEX,Mexico,2015.0,Cost of service is too high,58.0614460172157
+MEX,Mexico,2015.0,other reason,7.137592634233406
+MAR,Morocco,2015.0,cultural reasons,0.9999967642880948
+MAR,Morocco,2015.0,Privacy or security concerns,3.29998123287095
+MAR,Morocco,2015.0,other reason,56.399995470003326
+MAR,Morocco,2015.0,Cost of the equipment is too high,33.899987380723566
+MAR,Morocco,2015.0,Cost of service is too high,30.10000776570857
+MAR,Morocco,2015.0,Do not need the Internet,28.400005177139047
+MAR,Morocco,2015.0,Internet service is available but it does not correspond to household needs,0.4999983821440474
+MAR,Morocco,2015.0,Have access to the Internet elsewhere,7.100001294284762
+MAR,Morocco,2015.0,Internet service is not available in the area,4.499985439296427
+PAN,Panama,2015.0,Have access to the Internet elsewhere,11.954888978193608
+PAN,Panama,2015.0,Internet service is not available in the area,12.38855876488972
+PAN,Panama,2015.0,Do not need the Internet,57.01967608397938
+PAN,Panama,2015.0,Cost of the equipment is too high,17.038365047346673
+PAN,Panama,2015.0,Cost of service is too high,17.038365047346673
+PAN,Panama,2015.0,Privacy or security concerns,0.2370259967772267
+QAT,Qatar,2015.0,Have access to the Internet elsewhere,36.80085500534378
+QAT,Qatar,2015.0,Cost of the equipment is too high,9.737560859755371
+QAT,Qatar,2015.0,Internet service is available but it does not correspond to household needs,10.331314570716067
+QAT,Qatar,2015.0,Internet service is not available in the area,0.0
+QAT,Qatar,2015.0,Do not need the Internet,43.13026956418477
+QAT,Qatar,2015.0,Cost of service is too high,13.466334164588527
+QAT,Qatar,2015.0,cultural reasons,1.3062581641135258
+QAT,Qatar,2015.0,Privacy or security concerns,0.0
+RUS,Russian Federation,2015.0,Privacy or security concerns,0.6287050720672588
+RUS,Russian Federation,2015.0,other reason,9.456766745950937
+RUS,Russian Federation,2015.0,Internet service is not available in the area,7.716226953570541
+RUS,Russian Federation,2015.0,Cost of service is too high,18.587024923803693
+RUS,Russian Federation,2015.0,Do not need the Internet,66.25626232549348
+RUS,Russian Federation,2015.0,Have access to the Internet elsewhere,8.181829449901784
+SGP,Singapore,2015.0,Cost of the equipment is too high,4.935064935064935
+SGP,Singapore,2015.0,no electricity in the household,0.0
+SGP,Singapore,2015.0,Have access to the Internet elsewhere,5.454545454545454
+SGP,Singapore,2015.0,Internet service is not available in the area,0.0
+SGP,Singapore,2015.0,Cost of service is too high,1.2987012987012987
+SGP,Singapore,2015.0,Do not need the Internet,64.6103896103896
+SGP,Singapore,2015.0,Internet service is available but it does not correspond to household needs,0.0
+SGP,Singapore,2015.0,Privacy or security concerns,0.1948051948051948
+SGP,Singapore,2015.0,cultural reasons,0.0
+SGP,Singapore,2015.0,other reason,23.506493506493506
+THA,Thailand,2015.0,Do not need the Internet,62.28203915113141
+THA,Thailand,2015.0,Cost of service is too high,5.7727726758673885
+THA,Thailand,2015.0,Cost of the equipment is too high,5.7727726758673885
+THA,Thailand,2015.0,Have access to the Internet elsewhere,7.573268626923612
+THA,Thailand,2015.0,Internet service is not available in the area,0.819793648067557
+THA,Thailand,2015.0,Privacy or security concerns,0.3235793051824536
+KAZ,Kazakhstan,2015.0,Privacy or security concerns,3.486580790548214
+KAZ,Kazakhstan,2015.0,Cost of service is too high,0.0540572406114474
+KAZ,Kazakhstan,2015.0,Do not need the Internet,4.411782698791053
+KAZ,Kazakhstan,2015.0,Cost of the equipment is too high,7.124544100586509
+KAZ,Kazakhstan,2015.0,Have access to the Internet elsewhere,1.97130962007548
+MNE,Montenegro,2015.0,Cost of service is too high,23.719826984791407
+MNE,Montenegro,2015.0,Have access to the Internet elsewhere,7.302567322450118
+MNE,Montenegro,2015.0,Cost of the equipment is too high,26.19471187386633
+MNE,Montenegro,2015.0,Do not need the Internet,43.48576810380912
+MNE,Montenegro,2015.0,Internet service is not available in the area,5.547997767545695
+MNE,Montenegro,2015.0,Privacy or security concerns,1.037742430584624
+MNE,Montenegro,2015.0,other reason,14.095856006697364
+ZAF,South Africa,2014.0,cultural reasons,0.3228087254881344
+ZAF,South Africa,2014.0,Cost of the equipment is too high,20.382512022303818
+ZAF,South Africa,2014.0,Do not need the Internet,33.26050257361015
+ZAF,South Africa,2014.0,Have access to the Internet elsewhere,2.73899043788891
+BRA,Brazil,2014.0,Cost of service is too high,48.98991216566574
+BRA,Brazil,2014.0,Cost of the equipment is too high,46.727422694588725
+BRA,Brazil,2014.0,Internet service is not available in the area,17.666415803146155
+BRA,Brazil,2014.0,Have access to the Internet elsewhere,14.991379068107952
+BRA,Brazil,2014.0,Do not need the Internet,56.82021253323251
+BRA,Brazil,2014.0,Privacy or security concerns,12.40328613941766
+BRA,Brazil,2014.0,cultural reasons,11.499232689213256
+BHR,Bahrain,2014.0,Privacy or security concerns,1.312799043062201
+BHR,Bahrain,2014.0,cultural reasons,23.60645933014354
+BHR,Bahrain,2014.0,Cost of service is too high,23.60645933014354
+BHR,Bahrain,2014.0,Cost of the equipment is too high,20.983851674641148
+BHR,Bahrain,2014.0,Have access to the Internet elsewhere,21.420454545454547
+BHR,Bahrain,2014.0,Do not need the Internet,34.096889952153106
+BWA,Botswana,2014.0,Cost of service is too high,15.134534751339793
+BWA,Botswana,2014.0,Internet service is not available in the area,1.5483297698053482
+BWA,Botswana,2014.0,Have access to the Internet elsewhere,2.941160136617333
+BWA,Botswana,2014.0,Do not need the Internet,16.315774859078665
+BWA,Botswana,2014.0,Cost of the equipment is too high,18.86179990558965
+BWA,Botswana,2014.0,other reason,60.61116818926499
+BWA,Botswana,2014.0,Privacy or security concerns,0.2424124621664398
+COL,Colombia,2014.0,Cost of service is too high,43.69574520954004
+COL,Colombia,2014.0,Have access to the Internet elsewhere,2.122468900568631
+COL,Colombia,2014.0,Internet service is not available in the area,2.7325370994779963
+COL,Colombia,2014.0,Cost of the equipment is too high,2.119223732325402
+COL,Colombia,2014.0,Do not need the Internet,27.927906185817864
+EGY,Egypt,2014.0,cultural reasons,0.3883001559165738
+EGY,Egypt,2014.0,Privacy or security concerns,2.101759252943796
+EGY,Egypt,2014.0,Cost of the equipment is too high,3.0839081286037064
+EGY,Egypt,2014.0,Internet service is available but it does not correspond to household needs,0.3912907092065142
+EGY,Egypt,2014.0,Internet service is not available in the area,92.85032272787716
+EGY,Egypt,2014.0,Do not need the Internet,2.365711563374102
+EGY,Egypt,2014.0,Cost of service is too high,2.5872443946516435
+EGY,Egypt,2014.0,Have access to the Internet elsewhere,0.0341514788805767
+HKG,"Hong Kong, China",2014.0,Do not need the Internet,1.0147424851617843
+HKG,"Hong Kong, China",2014.0,Cost of service is too high,1.7231476163124642
+HKG,"Hong Kong, China",2014.0,Have access to the Internet elsewhere,4.346161210032548
+KOR,Korea (Rep. of),2014.0,Have access to the Internet elsewhere,0.4561561432837526
+KOR,Korea (Rep. of),2014.0,Cost of service is too high,22.98605455298841
+KOR,Korea (Rep. of),2014.0,Do not need the Internet,89.00081443696686
+KOR,Korea (Rep. of),2014.0,Privacy or security concerns,1.3441782045236974
+MAC,"Macao, China",2014.0,Cost of service is too high,4.713804713804714
+MAC,"Macao, China",2014.0,Cost of the equipment is too high,32.659932659932664
+MAC,"Macao, China",2014.0,Do not need the Internet,32.996632996633
+MUS,Mauritius,2014.0,Privacy or security concerns,2.6825827578197146
+MUS,Mauritius,2014.0,cultural reasons,3.2717878408466428
+MUS,Mauritius,2014.0,Have access to the Internet elsewhere,8.749128939600812
+MUS,Mauritius,2014.0,Cost of service is too high,39.43878215841685
+MEX,Mexico,2014.0,Do not need the Internet,25.757329718021506
+MEX,Mexico,2014.0,Cost of service is too high,58.029570582686496
+MAR,Morocco,2014.0,Cost of service is too high,35.89687508918751
+MAR,Morocco,2014.0,Cost of the equipment is too high,46.74034744160825
+MAR,Morocco,2014.0,Internet service is available but it does not correspond to household needs,3.708608762659138
+MAR,Morocco,2014.0,Do not need the Internet,46.24342207810741
+MAR,Morocco,2014.0,Have access to the Internet elsewhere,17.330395542490574
+MAR,Morocco,2014.0,Internet service is not available in the area,3.173291606385057
+MAR,Morocco,2014.0,Privacy or security concerns,8.27992144912964
+MAR,Morocco,2014.0,cultural reasons,5.578555261130052
+RUS,Russian Federation,2014.0,Internet service is not available in the area,7.595452935279059
+RUS,Russian Federation,2014.0,Have access to the Internet elsewhere,7.8629097809431805
+RUS,Russian Federation,2014.0,Do not need the Internet,68.15676830152634
+RUS,Russian Federation,2014.0,Cost of the equipment is too high,14.773095498661162
+RUS,Russian Federation,2014.0,Privacy or security concerns,0.5798054281434475
+SGP,Singapore,2014.0,cultural reasons,0.0
+SGP,Singapore,2014.0,Privacy or security concerns,0.0
+SGP,Singapore,2014.0,Internet service is available but it does not correspond to household needs,0.0
+SGP,Singapore,2014.0,Do not need the Internet,44.97549019607843
+SGP,Singapore,2014.0,Cost of service is too high,1.2254901960784317
+SGP,Singapore,2014.0,Cost of the equipment is too high,2.7573529411764706
+SGP,Singapore,2014.0,Internet service is not available in the area,0.0
+SGP,Singapore,2014.0,Have access to the Internet elsewhere,6.924019607843138
+CHE,Switzerland,2014.0,Privacy or security concerns,29.169435881679096
+CHE,Switzerland,2014.0,Have access to the Internet elsewhere,9.726874688985149
+CHE,Switzerland,2014.0,Cost of service is too high,17.867197910648148
+CHE,Switzerland,2014.0,Cost of the equipment is too high,17.867197910648148
+CHE,Switzerland,2014.0,Do not need the Internet,82.95204443212445
+ZWE,Zimbabwe,2014.0,Cost of the equipment is too high,73.39698001125346
+ZWE,Zimbabwe,2014.0,Do not need the Internet,24.990499119093084
+ZWE,Zimbabwe,2014.0,Cost of service is too high,45.40687753087786
+ZWE,Zimbabwe,2014.0,Have access to the Internet elsewhere,2.3801551503076257
+ZWE,Zimbabwe,2014.0,Internet service is not available in the area,9.743153370045476
+ZWE,Zimbabwe,2014.0,Internet service is available but it does not correspond to household needs,3.4007619153037973
+ZWE,Zimbabwe,2014.0,Privacy or security concerns,3.7419634538930553
+ZWE,Zimbabwe,2014.0,cultural reasons,3.1492652959570524
+ZAF,South Africa,2013.0,Have access to the Internet elsewhere,3.473966102645192
+ZAF,South Africa,2013.0,Cost of the equipment is too high,16.132811109527943
+ZAF,South Africa,2013.0,Do not need the Internet,34.01499331287718
+ZAF,South Africa,2013.0,cultural reasons,0.1656377583098454
+AUT,Austria,2013.0,Cost of service is too high,18.361907732968103
+AUT,Austria,2013.0,Cost of the equipment is too high,14.767447614208496
+BRA,Brazil,2013.0,Cost of service is too high,37.56969743195777
+BRA,Brazil,2013.0,Internet service is not available in the area,11.898135287240985
+BRA,Brazil,2013.0,Cost of the equipment is too high,62.84253359467612
+BRA,Brazil,2013.0,Do not need the Internet,49.488204021711866
+BRA,Brazil,2013.0,Internet service is available but it does not correspond to household needs,5.670773578167895
+BRA,Brazil,2013.0,Have access to the Internet elsewhere,12.152973148635022
+BRA,Brazil,2013.0,cultural reasons,6.673814501963498
+BRA,Brazil,2013.0,Privacy or security concerns,7.855100110320685
+BEL,Belgium,2013.0,Cost of the equipment is too high,19.0320210579306
+BEL,Belgium,2013.0,Cost of service is too high,31.176495154297523
+BHR,Bahrain,2013.0,Cost of service is too high,22.426136363636363
+BHR,Bahrain,2013.0,Cost of the equipment is too high,19.93465909090909
+BHR,Bahrain,2013.0,Do not need the Internet,32.39204545454545
+BHR,Bahrain,2013.0,Have access to the Internet elsewhere,20.349431818181817
+BHR,Bahrain,2013.0,cultural reasons,22.426136363636363
+BHR,Bahrain,2013.0,Privacy or security concerns,1.247159090909091
+BGR,Bulgaria,2013.0,Cost of service is too high,40.7166180340844
+BGR,Bulgaria,2013.0,Cost of the equipment is too high,19.959625734040564
+COL,Colombia,2013.0,Privacy or security concerns,2.1618816037381494
+COL,Colombia,2013.0,cultural reasons,2.1618816037381494
+COL,Colombia,2013.0,Internet service is available but it does not correspond to household needs,2.1618816037381494
+COL,Colombia,2013.0,Have access to the Internet elsewhere,1.3537572774885838
+COL,Colombia,2013.0,Do not need the Internet,26.44349710231608
+COL,Colombia,2013.0,Cost of service is too high,44.3694807157332
+COL,Colombia,2013.0,Internet service is not available in the area,2.5870743399141185
+COL,Colombia,2013.0,Cost of the equipment is too high,2.1618816037381494
+CYP,Cyprus,2013.0,Cost of service is too high,41.7325660533715
+CYP,Cyprus,2013.0,Cost of the equipment is too high,39.29844391790949
+DEU,Germany,2013.0,Cost of service is too high,36.36497238050588
+DEU,Germany,2013.0,Cost of the equipment is too high,28.100874989697587
+ESP,Spain,2013.0,Cost of the equipment is too high,29.002505667149748
+ESP,Spain,2013.0,Cost of service is too high,37.831066094431485
+EST,Estonia,2013.0,Cost of service is too high,65.9135070616108
+EST,Estonia,2013.0,Cost of the equipment is too high,54.32286582202215
+FRA,France,2013.0,Cost of service is too high,44.20594951485764
+FRA,France,2013.0,Cost of the equipment is too high,32.82623688774955
+FIN,Finland,2013.0,Cost of the equipment is too high,23.892416752608977
+FIN,Finland,2013.0,Cost of service is too high,34.1900996861384
+GBR,United Kingdom,2013.0,Cost of service is too high,14.249236265796542
+GBR,United Kingdom,2013.0,Cost of the equipment is too high,11.513453017294896
+GRC,Greece,2013.0,Cost of the equipment is too high,14.677247912957204
+GRC,Greece,2013.0,Cost of service is too high,24.68995295157954
+HUN,Hungary,2013.0,Cost of service is too high,53.320623835717285
+HUN,Hungary,2013.0,Cost of the equipment is too high,41.03109990238071
+NLD,Netherlands,2013.0,Cost of service is too high,22.396775064107054
+NLD,Netherlands,2013.0,Cost of the equipment is too high,14.64305973015879
+HRV,Croatia,2013.0,Cost of the equipment is too high,24.743171352422987
+HRV,Croatia,2013.0,Cost of service is too high,31.59612144249051
+IRL,Ireland,2013.0,Cost of service is too high,23.199057554732263
+IRL,Ireland,2013.0,Cost of the equipment is too high,17.0471772902067
+IRN,Iran (Islamic Republic of),2013.0,cultural reasons,2.472123281018135
+IRN,Iran (Islamic Republic of),2013.0,Privacy or security concerns,8.399168454816587
+IRN,Iran (Islamic Republic of),2013.0,Cost of the equipment is too high,11.409853400469109
+IRN,Iran (Islamic Republic of),2013.0,Have access to the Internet elsewhere,32.03108496388211
+IRN,Iran (Islamic Republic of),2013.0,Cost of service is too high,2.701549789412373
+IRN,Iran (Islamic Republic of),2013.0,Do not need the Internet,71.49964326224195
+IRN,Iran (Islamic Republic of),2013.0,Internet service is not available in the area,20.544354558942317
+IRN,Iran (Islamic Republic of),2013.0,Internet service is available but it does not correspond to household needs,1.4211046043577864
+KOR,Korea (Rep. of),2013.0,Do not need the Internet,91.57857990231318
+KOR,Korea (Rep. of),2013.0,Have access to the Internet elsewhere,0.3597430913646866
+KOR,Korea (Rep. of),2013.0,Cost of service is too high,22.14786742757064
+KOR,Korea (Rep. of),2013.0,Privacy or security concerns,0.1680378913611365
+KOR,Korea (Rep. of),2013.0,cultural reasons,0.6458216845798609
+LTU,Lithuania,2013.0,Cost of service is too high,23.39158014090237
+LTU,Lithuania,2013.0,Cost of the equipment is too high,19.90728497852165
+LVA,Latvia,2013.0,Cost of service is too high,39.17992774353832
+LVA,Latvia,2013.0,Cost of the equipment is too high,22.7237843517874
+MEX,Mexico,2013.0,Do not need the Internet,20.24382449932872
+MEX,Mexico,2013.0,Cost of the equipment is too high,57.77861040362128
+MAR,Morocco,2013.0,Privacy or security concerns,7.220032017950221
+MAR,Morocco,2013.0,cultural reasons,3.058066149421303
+MAR,Morocco,2013.0,Internet service is available but it does not correspond to household needs,1.8357273263961107
+MAR,Morocco,2013.0,Cost of the equipment is too high,48.27580501824645
+MAR,Morocco,2013.0,Cost of service is too high,41.21901412445402
+MAR,Morocco,2013.0,Have access to the Internet elsewhere,18.53285726591076
+MAR,Morocco,2013.0,Do not need the Internet,60.92848904267589
+MAR,Morocco,2013.0,Internet service is not available in the area,5.788021841116174
+OMN,Oman,2013.0,cultural reasons,0.663440163023342
+OMN,Oman,2013.0,Privacy or security concerns,0.8811133753241942
+OMN,Oman,2013.0,Have access to the Internet elsewhere,2.330724342349018
+OMN,Oman,2013.0,Cost of service is too high,21.964153390144496
+OMN,Oman,2013.0,Do not need the Internet,13.42047980733605
+OMN,Oman,2013.0,Cost of the equipment is too high,9.365737310114858
+OMN,Oman,2013.0,Internet service is not available in the area,28.84054279362727
+POL,Poland,2013.0,Cost of the equipment is too high,21.723031892306523
+POL,Poland,2013.0,Cost of service is too high,34.485373323181264
+PRT,Portugal,2013.0,Cost of the equipment is too high,48.79615028617612
+PRT,Portugal,2013.0,Cost of service is too high,51.911773793811335
+ROU,Romania,2013.0,Cost of service is too high,49.57833929621086
+ROU,Romania,2013.0,Cost of the equipment is too high,29.293342770535524
+SWE,Sweden,2013.0,Cost of service is too high,28.692041929093648
+SGP,Singapore,2013.0,cultural reasons,0.132890365448505
+SGP,Singapore,2013.0,Privacy or security concerns,1.6611295681063123
+SGP,Singapore,2013.0,Internet service is available but it does not correspond to household needs,0.3986710963455149
+SGP,Singapore,2013.0,Cost of the equipment is too high,5.3156146179402
+SGP,Singapore,2013.0,Do not need the Internet,50.76411960132891
+SGP,Singapore,2013.0,Cost of service is too high,3.388704318936877
+SGP,Singapore,2013.0,Internet service is not available in the area,0.0
+SGP,Singapore,2013.0,Have access to the Internet elsewhere,7.2425249169435215
+CHE,Switzerland,2013.0,cultural reasons,3.068784242397356
+SVN,Slovenia,2013.0,Cost of the equipment is too high,50.89573273511815
+SVN,Slovenia,2013.0,Cost of service is too high,53.63241721187263
+CZE,Czech Republic,2013.0,Cost of service is too high,33.29752137921936
+CZE,Czech Republic,2013.0,Cost of the equipment is too high,20.818803918326296
+TUR,Türkiye,2013.0,Cost of service is too high,25.63616775739378
+TUR,Türkiye,2013.0,Have access to the Internet elsewhere,9.68359385179276
+TUR,Türkiye,2013.0,Cost of the equipment is too high,21.583555635306723
+TUR,Türkiye,2013.0,Internet service is not available in the area,1.6151592920012017
+TUR,Türkiye,2013.0,Do not need the Internet,34.47721541425353
+TUR,Türkiye,2013.0,Privacy or security concerns,1.2127714997954422
+SVK,Slovakia,2013.0,Cost of service is too high,29.532421146998463
+SVK,Slovakia,2013.0,Cost of the equipment is too high,19.29072666479945
