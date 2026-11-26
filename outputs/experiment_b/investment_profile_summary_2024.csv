@@ -1,0 +1,5 @@
+Investment_Profile,Countries_Areas,Avg_LTE_Coverage,Avg_Internet_Adoption,Avg_Coverage_Use_Gap,Avg_Electricity_Access
+High coverage / Low adoption,33,97.12,65.04,32.09,93.88
+High coverage / High adoption,96,98.4,91.13,7.27,99.64
+Low coverage / Low adoption,51,70.2,42.38,27.82,63.32
+Low coverage / High adoption,5,73.4,86.32,-12.92,98.06

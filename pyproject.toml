@@ -1,7 +1,8 @@
+
 [project]
 name = "ai-readiness-governance-capstone"
-version = "0.1.0"
-description = "Analysis of digital infrastructure and access as foundations for AI readiness."
+version = "1.0.0"
+description = "A data-driven digital infrastructure investment framework supporting AI readiness in developing nations."
 requires-python = ">=3.11"
 
 dependencies = [
@@ -11,5 +12,7 @@ dependencies = [
     "seaborn",
     "scipy",
     "jupyter",
-    "openpyxl"
+    "openpyxl",
+    "scikit-learn",
+    "joblib"
 ]
